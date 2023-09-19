@@ -1,6 +1,6 @@
 import sys
 
-punctuation = ['.', '"', ';', ',', '?', '!', ':', '(', ')', '...', '\n']
+punctuation = ['.', '"', ';', ',', '?', '!', ':', '(', ')', '...']
 
 for s in sys.stdin.readlines():
 	inp = s
