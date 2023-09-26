@@ -16,5 +16,5 @@ for ln in sys.stdin.readlines():
 	for i, t in enumerate(s):
 		if t.strip () == '':
 			continue
-		print('%d\t %s\t_\t_\t_\t_\t_\t_\t_\t_\t_'%(i+1, t))
+		print('%d\t %s\t_\t_\t_\t_\t_\t_\t_\t_'%(i+1, t))
 
