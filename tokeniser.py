@@ -1,12 +1,20 @@
 import sys
 
-punctuation = ['.', '"', ';', ',', '?', '!', ':', '(', ')', '...']
+counter = 0
 
-for s in sys.stdin.readlines():
-	inp = s
+for ln in sys.stdin.readlines():
+	if ln.strip () == '':
+		continue
+	counter = counter + 1
+	print('#sent_ID =', counter)
+	print('#text =', ln, end="")
+	punctuation = ['.', '"', ';', ',', '?', '!', ':', '(', ')', '...']
+	inp = ln
 	for p in punctuation:
 		inp = inp.replace(p, ' '+p+' ')
-	replace_space = inp.replace(' ', '\n')
-	print(replace_space)
-
+	s = inp.split(' ')
+	for i, t in enumerate(s):
+		if t.strip () == '':
+			continue
+		print('%d\t %s\t_\t_\t_\t_\t_\t_\t_\t_\t_'%(i+1, t))
 
