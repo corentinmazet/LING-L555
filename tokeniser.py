@@ -6,8 +6,9 @@ for ln in sys.stdin.readlines():
 	if ln.strip () == '':
 		continue
 	counter = counter + 1
-	print('#sent_ID =', counter)
-	print('#text =', ln, end="")
+	ln = ln.strip()
+	print('# sent_ID =', counter)
+	print('# text =', ln, end="\n")
 	punctuation = ['.', '"', ';', ',', '?', '!', ':', '(', ')', '...']
 	inp = ln
 	for p in punctuation:
@@ -18,3 +19,4 @@ for ln in sys.stdin.readlines():
 			continue
 		print('%d\t %s\t_\t_\t_\t_\t_\t_\t_\t_'%(i+1, t))
 
+	print()
