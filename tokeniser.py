@@ -6,12 +6,15 @@ for ln in sys.stdin.readlines():
 	if ln.strip () == '':
 		continue
 	counter = counter + 1
-	ln = ln.strip()
+	#ln = ln.strip()
 	print('# sent_ID =', counter)
 	print('# text =', ln, end="\n")
-	punctuation = ['.', '"', ';', ',', '?', '!', ':', '(', ')', '...']
+	punctuationleft = ['\u2019']
+	punctuationboth = ['.', '"', ';', ',', '?', '!', ':', '(', ')', '...']
 	inp = ln
-	for p in punctuation:
+	for p in punctuationleft:
+		inp = inp.replace(p, ''+p+' ')
+	for p in punctuationboth:
 		inp = inp.replace(p, ' '+p+' ')
 	s = inp.split(' ')
 	for i, t in enumerate(s):
