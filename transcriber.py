@@ -18,7 +18,10 @@ for line in sys.stdin.readlines():
 	# strip any excess newlines
 	line = line.strip('\n')
 	# sent_ID
-	if '#' in line:
+	if '# sent_ID' in line:
+		print()
+		print(line)
+	if '# text' in line:
 		print(line)
 	# if there is no tab character, skip the line
 	if '\t' not in line:
@@ -27,6 +30,5 @@ for line in sys.stdin.readlines():
 	newstring = row[1]
 	for lat,cyr in table.items():
 		newstring = newstring.replace(lat,cyr)
-	row[9]='CYR = ' + newstring
+	row[9]='CYR =' + newstring
 	print('\t'.join(row))
-
