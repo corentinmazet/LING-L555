@@ -25,7 +25,7 @@ In order to test this, we will look at the syllabic environment for each instanc
 
 
 
-#HOW TO RUN THE CODE
+#THE CODES
 
 I am starting with the French Sequoia corpus from https://github.com/surfacesyntacticud/SUD_French-Sequoia
 
