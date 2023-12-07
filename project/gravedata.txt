@@ -1,0 +1,1205 @@
+# text = Cette exposition nous apprend que dès le XIIe siècle, à Dammarie-sur-Saulx, entre autres sites, une industrie métallurgique existait.
+6	dès	dès	ADP	_	_	9	case	_	_
+9	siècle	siècle	NOUN	_	Gender=Masc|Number=Sing	21	obl:mod	_	SpaceAfter=No
+# text = En 1953, les hauts fourneaux et fonderies de Cousances virent le jour, puis Jean Baudesson, maire échevin de Saint-Dizier, autorisé par lettres patentes d'Henri IV, installa à Marnaval- qui signifiait val ou vallée de la Marne ou bien en aval de la Marne-, une forge qui connut son apogée au XIXe siècle.
+62	siècle	siècle	NOUN	_	Gender=Masc|Number=Sing	56	obl:mod	_	SpaceAfter=No
+# text = Le maire a invité les membres du conseil à élaborer le programme d'amélioration de la voirie communale et de la sécurité routière pour l'année 1999.
+24	routière	routier	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	_
+# text = Pourquoi ce thème ?
+3	thème	thème	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Après avoir coupé le ruban qui en marque symboliquement l'entrée, le maire et la directrice ont conduit la visite commentée des locaux.
+1	Après	après	ADP	_	_	3	mark	_	_
+# text = Le coût des bâtiments s'élève à 2.700.000 F, dont 40% de subvention de l'Etat ; 20% d'auto-financement et 40% d'emprunt.
+7	élève	élever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text = M. Soyer a adressé ses remerciements aux collectivités participantes, et en particulier à l'inspecteur d'académie, pour la création, en 1998, d'une cinquième classe et la nomination de deux aides-éducateurs et la mise à disposition à la rentrée 1999 d'un titulaire mobile.
+30	cinquième	cinquième	ADJ	_	Number=Sing|NumType=Ord	31	amod	_	_
+# text = Ce sont finalement les élèves de la classe de CM2 de Jacky Hedin qui sont venus mettre la main au sac poubelle, dans la bonne humeur, comme s'ils étaient là pour participer à un jeu de plein-air, laissant au passage le soin à leurs aînés d'en tirer une morale.
+5	élèves	élève	NOUN	_	Number=Plur	0	root	_	_
+# text = Une seconde opération se déroulait en parallèle sur le territoire de la commune, avec un groupe d'une dizaine de chevaliers de la gaule "La Barisienne", des pêcheurs à la ligne venus nettoyer les rives et curer le petit ruisseau qui serpente sous les "Sources" avant de se jeter dans l'Ornain.
+7	parallèle	parallèle	NOUN	_	Number=Sing	5	obl:mod	_	_
+# text = Une opération destinée aussi à faciliter la remontée et la fraye des truites vers la rivière.
+17	rivière	rivière	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+# text = La journée de nettoyage de l'environnement placée sous la bannière du "Printemps de l'environnement" n'a pas connu, à Fains-Véel, le succès que la municipalité était en droit d'attendre.
+11	bannière	bannière	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	_
+29	succès	succès	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
+# text = Les élèves de la classe de CE1 de l'école Notre-Dame ont pris part aux festivités.
+2	élèves	élève	NOUN	_	Number=Plur	13	nsubj	_	_
+# text = Quel bonheur d'entendre la boulangère conter l'histoire de saint Honoré, ce jeune homme dissipé annonçant à sa vieille nourrice qu'il voulait se faire prêtre !
+6	boulangère	boulanger	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+# text = Une journée du championnat de promotion de première division départementale.
+9	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	_
+# text = Décès de Guy Hosneld
+1	Décès	décès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Nous apprenons avec beaucoup de tristesse, le décès de Guy Hosneld, suite à une longue et douloureuse maladie, à l'âge de 44 ans.
+9	décès	décès	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+# text = Guy Hosneld était une personne très connue dans la commune et aux alentours, pour son grand dévouement aux autres et sa participation à la vie associative du village ;
+6	très	très	ADV	_	_	7	advmod	_	_
+# text = à l'âge de 12 ans, il était entré au LAS handball où il pratiqua durant près de vingt-cinq ans.
+19	près	près	ADV	_	ExtPos=PRON	17	obl:mod	_	_
+# text = Les obsèques seront célébrées demain, à 15h, en l'église Notre-Dame de Void-Vacon.
+2	obsèques	obsèque	NOUN	_	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+# text = La première exposition avicole de Belfort date de 1922.
+2	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+# text = Cela fait donc plus de trois-quarts de siècle que la digne société du même nom encourage, dans la région, les éleveurs amateurs.
+8	siècle	siècle	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+# text = à l'époque, ce cher "Jo" élevait jusqu'à 120 pigeons voyageurs, et les spécialistes n'ont pas oublié que l'un de ses champions fut de loin le meilleur sur 500 kilomètres lors d'un retour d'Evreux et de Bayeux !
+37	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	34	nmod	_	_
+# text = Heureusement, comme les autres amis de Claude Simon, il adore consacrer son temps à cette très belle exposition avicole qui résonne de mille chants de coqs heureux.
+18	très	très	ADV	_	_	19	advmod	_	_
+# text = Une heure et vingt minutes, c'est le temps qu'il aura fallu à Thierry Guerry, chauffeur-routier chez Caillaud, l'entreprise en charpente chargée de la pose de la toiture des cours de tennis couverts, pour pénétrer dans l'enceinte du complexe sportif de la commune, avec son semi-remorque, sur lequel étaient chargées quatorze tonnes d'éléments en bois de trente mètres de long, destinés à la couverture du bâtiment en construction sur le stade.
+70	mètres	mètre	NOUN	_	Gender=Masc|Number=Plur	65	nmod	_	_
+# text = C'est au centimètre près que la cabine du véhicule a pu passer entre les deux poteaux du portail principal, dont un "chapeau" sur l'un a du être enlevé pour faciliter la manoeuvre spectaculaire, dirigée par le pilote du convoi exceptionnel.
+5	centimètre	centimètre	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	près	près	ADV	_	_	5	advmod	_	_
+# text = Le véhicule a été enlevé un peu après 20h.
+8	après	après	ADP	_	_	10	case	_	_
+# text = L'automobile, en effet, est invisible depuis la rue de Danjoutin située en contrebas et les traces indiquant la sortie de route sont discrètes au niveau de l'A36.
+26	discrètes	discret	ADJ	_	Gender=Fem|Number=Plur	8	conj	_	_
+# text = Frôlant le début d'une glissière de sécurité, le véhicule a gravi le talus, basculé de l'autre côté, traversé un champ, est entré dans un secteur boisé, pour finalement plonger vers le centre Leclerc dans une zone à pic.
+6	glissière	glissière	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+# text = Ce dernier est resté en équilibre instable, au-dessus d'un vide de plus de dix mètres.
+17	mètres	mètre	NOUN	_	Gender=Masc|Number=Plur	14	obl:arg	_	SpaceAfter=No
+# text = En tout, il a parcouru une distance de près de 150 mètres pour un dénivelé de plusieurs dizaines de mètres.
+10	près	près	ADV	_	ExtPos=PRON	8	nmod	_	_
+13	mètres	mètre	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	_
+21	mètres	mètre	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+# text = Les sapeurs-pompiers de Belfort et le Samu sont parvenus, après avoir crapahuté dans les broussailles, à récupérer le conducteur et sa passagère, qui étaient conscients.
+11	après	après	ADP	_	_	13	mark	_	_
+24	passagère	passager	NOUN	_	Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
+# text = Vingt-six tableaux pour expliquer ce qu'est une éclipse de soleil avec une quinzaine de définitions des mots-clefs tels : amas globulaire, amas ouvert, comètes, constellations, galaxie, mama (machine automatique à mesurer l'astronomie).
+28	comètes	comète	NOUN	_	Gender=Fem|Number=Plur	22	conj	_	SpaceAfter=No
+# text = à travers cette balade interplanétaire, le visiteur enrichit ses connaissances et apprend que le premier astronome français répondait au nom de Messier surnommé "Le furet des comètes" par Louis XV.
+31	comètes	comète	NOUN	_	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
+# text = Cette soirée sera agrémentée d'une exposition concernant la genèse du système solaire.
+10	genèse	genèse	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+13	système	système	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+# text = Puis, le jour J, dans le cadre de l'opération "ville, vie, vacances", les jeunes Maxévillois accompagnés des animateurs se rendront à Mont-Saint-Martin près de Metz où ils seront dans l'obscurité totale durant 2 mn 30.
+32	près	près	ADV	_	_	31	advmod	_	_
+# text = Les jeunes intéressés peuvent s'inscrire dès maintenant.
+7	dès	dès	ADP	_	_	8	case	_	_
+# text = Et par le biais de l'activité théâtre, ils se sont intéressés à l'expression orale et à la mise en scène avec un intervenant, Julien Georges, maître de théâtre.
+23	scène	scène	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
+# text = Dans un premier temps, ils ont étudié les dialogues du livre et en ont extrait quelques-uns pour mieux les mettre en scène.
+24	scène	scène	NOUN	_	Gender=Fem|Number=Sing	22	obl:arg	_	SpaceAfter=No
+# text = Quelques mois auront été nécessaires pour mettre en scène le Petit Prince.
+9	scène	scène	NOUN	_	Gender=Fem|Number=Sing	7	obl:arg	_	_
+# text = Pièce théâtrale présentée dans le spacieux hall de l'école, aux copains, parents, grands-parents.
+1	Pièce	pièce	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+# text = Au mois de mars dernier, les enfants de CE2 de Mme Philippe avaient montré leur travail réalisé d'après "Les contes du chat perché" de Marcel Aimé.
+21	après	après	ADP	_	_	20	fixed	_	InIdiom=Yes
+# text = J'espère qu'un jour, le théâtre remplacera la télévision."
+2	espère	espérer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text = Il ne s'agit pas d'un phénomène météorologique accompagnant le solstice d'été.
+8	phénomène	phénomène	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
+# text = Dès sa sortie de l'école primaire, elle montait à Metz et entrait en apprentissage dans une école de couture, puis revint en Meuse après la Seconde Guerre mondiale.
+1	Dès	dès	ADP	_	_	3	case	_	_
+27	après	après	ADP	_	_	30	case	_	_
+# text = Elle lui donna sept enfants avant que le cercle familial ne s'agrandisse de quinze petits-enfants et de quatorze arrière-petits-enfants.
+20	arrière-petits-enfants	arrière-petit-enfant	NOUN	_	Number=Plur	16	conj	_	SpaceAfter=No
+# text = Ses obsèques seront célébrées, ce matin, à 10h30, en l'église Saint-Etienne de Bar-le-Duc.
+2	obsèques	obsèque	NOUN	_	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+# text = Plus précisément, c'est la batterie -une des deux composantes de l'Harmonie- qui connaît des problèmes.
+21	problèmes	problème	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	SpaceAfter=No
+# text = Certes, l'harmonie -deuxième composante de l'Harmonie municipale- est, elle, encore au grand complet.
+6	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	7	amod	_	_
+# text = Que la lumière soit !
+3	lumière	lumière	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+# text = M. le maire et M. le directeur des Rapides, il vous est demandé de régler le problème au plus vite.
+19	problème	problème	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
+# text = à titre de rappel : nos chers bambins sont toujours dans le noir, sans salle d'attente chauffée, sans toilettes et sans lumière.
+25	lumière	lumière	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+# text = Dimanche en milieu d'après-midi, quelques enfants s'adonnaient à des glissades alors que l'eau, cachée, recouvrait encore tout le secteur.
+5	après-midi	après-midi	NOUN	_	Number=Sing	3	nmod	_	SpaceAfter=No
+# text = Montée par le collège Saint-Jean, cette grande première va draîner dans la cité de la Paix près de 700 jeunes venus des quatre coins de France, mais aussi du Canada, de Belgique et de Suisse.
+4	collège	collège	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	_
+9	première	première	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+18	près	près	ADV	_	ExtPos=PRON	11	obj	_	_
+# text = D'abord, les Mirecurtiens rencontrèrent Utrecht qu'ils accrochèrent longtemps pour finalement céder par 36-32.
+6	rencontrèrent	rencontrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	accrochèrent	accrocher	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
+# text = Deuxième match, contre Sarrelouis (N2 allemande).
+1	Deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	2	amod	_	_
+# text = Là, les hommes de Franck Renard, bien en jambes se montrèrent plus sûrs notamment à l'intérieur de la raquette et ils l'emportèrent par 45-36.
+13	montrèrent	montrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+26	emportèrent	emporter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
+# text = L'après-midi, rencontre entre Lorrains pour la 3e place contre les voisins de Joeuf, mais la fatigue commençait à se faire sentir.
+2	après-midi	après-midi	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
+# text = Le bilan de l'entraîneur à l'issue de ce tournoi de préparation était assez mitigé : "On a montré de très bonnes choses durant la matinée mais physiquement notre jeu s'est affaibli au fur et à mesure du tournoi.
+23	très	très	ADV	_	_	24	advmod	_	_
+# text = Dans la nuit de dimanche à lundi, peu après minuit, les services de police de Montbéliard reçoivent un appel téléphonique les informant qu'une rixe est en train de dégénérer, place Ferrer, à Montbéliard.
+10	après	après	ADP	_	_	11	case	_	_
+# text = Lors de l'assemblée générale de l'Association paroissiale d'éducation populaire, le bilan dressé par le vice-président, M. Ménétrez, fait apparaître un solde financier positif, notamment grâce au succès rencontré par le loto, au don de la section des "Fourmis" après leur marché de Noël et à la vente de fleurs à l'occasion de la fête des Mères.
+35	succès	succès	NOUN	_	Gender=Masc|Number=Sing	25	obl:mod	_	_
+52	après	après	ADP	_	_	54	case	_	_
+71	Mères	mère	NOUN	_	Gender=Fem|Number=Plur	68	nmod	_	SpaceAfter=No
+# text = Pour les autres utilisations, se renseigner auprès du comité.
+8	auprès	auprès	ADP	_	ExtPos=ADV	7	obl:arg	_	_
+# text = Investissement en 2003, l'association envisage de changer les portes d'accès à la grande salle.
+13	accès	accès	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+# text = Pour finir, le mot du président, Luc Stéfann, qui rappelle la vocation des bénévoles de l'association : être un soutien pour la paroisse, apporter une petite contribution financière aux travaux grâce aux manifestations et aux dons, accomplir de multiples tâches et démarches touchant aux bâtiment paroissiaux, contribuer à la convivialité entre les paroissiens.
+35	financière	financier	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	_
+# text = trésorière : Marie-Thérèse Joyot ;
+1	trésorière	trésorier	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	Marie-Thérèse	Marie-Thérèse	PROPN	_	_	1	appos	_	_
+# text = La banque de l'entreprise, la Société Générale, possède pour sa part 22% des actions.
+11	possède	posséder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text = Ce prêt aurait permis aussi à la société de lancer sa production de plaques offset en numérique, une technologie qu'elle est parvenue à maîtriser l'an dernier, et qui pouvait la sauver, car elle est très attendue sur le marché.
+40	très	très	ADV	_	_	41	advmod	_	_
+# text = Quant au chèque de 76.000 euros, la banque a apparemment refusé de l'honorer.
+4	chèque	chèque	NOUN	_	Gender=Masc|Number=Sing	1	obl:arg	_	_
+# text = Dès lors, la "condamnation" de l'entreprise devenait inévitable.
+1	Dès	dès	ADP	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
+# text = Une première réunion a eu lieu sur la question de l'indemnisation.
+2	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+# text = Un groupe de travail, constitué par le secrétaire d'Etat aux anciens combattants Jacques Floch, s'est réuni une première fois pour analyser les propositions et revendications des associations qui protestent contre le décret du 13 juillet 2000 instituant une indemnité spécifique versée, sous certaines conditions, aux orphelins de déportés juifs.
+23	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	24	amod	_	_
+# text = Plus particulièrement, l'association des orphelins de déportés de la vallée du Rabodeau, que préside Arsène Vauthier, a multiplié les revendications et manifestations.
+2	particulièrement	particulièrement	ADV	_	_	24	advmod	_	SpaceAfter=No
+20	Arsène	Arsène	PROPN	_	_	19	nsubj	_	_
+# text = Il rappelle néanmoins un certain nombre d'actions entreprises par le gouvernement, et plus particulièrement la mise en place du groupe de travail, réuni pour la première fois il y a quelques jours.
+16	particulièrement	particulièrement	ADV	_	_	18	advmod	_	_
+30	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	31	amod	_	_
+# text = Lionel Jospin écrit : "Il m'a été donné de dire à plusieurs reprises combien les persécutions antisémites et les actes qui en ont découlé revêtaient un caractère particulier aux yeux de l'histoire et de la morale".
+29	caractère	caractère	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	_
+# text = Cette animation, qui comporte trois tours, dont le prochain aura lieu à Faulx (date à définir) et le troisième le 1er mai, à Nomeny, est destinée à montrer une première approche de la compétition à tous ces petits sportifs.
+23	troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	12	conj	_	_
+36	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	37	amod	_	_
+# text = Après un échauffement collectif dirigé par Frédéric Pierlot de l'OFP, les responsables des quatorze clubs présents Belleville, Brin-sur-Seille, Champenoux, Champigneulles, Dieulouard, Faulx, Jeandelaincourt, Leyr, Marbache, Nomeny, Thiaucourt, 3 Vallées, Bouxières-aux-Dames et l'OFP, ont encouragé et conseillé leurs petits judokas.
+1	Après	après	ADP	_	_	3	case	_	_
+45	Bouxières-aux-Dames	Bouxières-aux-Dames	PROPN	_	_	20	conj	_	_
+# text = L'oeil photographique de Fabrice Gillant tente de percer les mystères du ciel.
+11	mystères	mystère	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+# text = Ce Meusien, passionné de météorologie depuis sa plus tendre enfance passe le plus clair de son temps à observer et à photographier les phénomènes climatiques.
+25	phénomènes	phénomène	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	_
+# text = Le public pourra découvrir, à travers l'exposition de près de 30 clichés, le travail de ce correspondant de Météo France.
+11	près	près	ADV	_	ExtPos=PRON	9	nmod	_	_
+# text = "Si cet incendie est d'origine criminelle, il pourrait s'expliquer par la présence des CRS sur le quartier dans l'après-midi.
+25	après-midi	après-midi	NOUN	_	Number=Sing	16	nmod	_	SpaceAfter=No
+# text = Le premier magistrat de la commune n'écartait d'ailleurs pas cette thèse expliquant qu'un incendie comme celui-ci à une heure plus tardive aurait pu avoir des conséquences beaucoup plus graves.
+13	thèse	thèse	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+# text = Arrivé aux Pays-Bas dans un avion du gouvernement yougoslave, M. Milutinovic a été incarcéré au centre de détention du TPI à Scheveningen, une banlieue de La Haye en début d'après-midi.
+37	après-midi	après-midi	NOUN	_	Number=Sing	35	nmod	_	SpaceAfter=No
+# text = Avec cette reddition, l'ensemble des proches collaborateurs de Slobodan Milosevic inculpés par le TPI se retrouvent derrière les barreaux, à l'exception d'un d'entre eux, Vlajko Stojiljkovic, qui s'était suicidé en avril dernier avant un transfert imminent à La Haye.
+20	derrière	derrière	ADP	_	_	22	case	_	_
+# text = La France a dénoncé hier des violations des droits de l'Homme dans l'ouest de la Côte d'Ivoire, tandis que les acteurs de la crise ivoirienne ont entamé à Marcoussis, près de Paris, la deuxième phase de leurs négociations.
+36	près	près	ADV	_	_	34	advmod	_	_
+41	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	42	amod	_	_
+# text = Paris est "préoccupé par les violations des droits de l'Homme qui ont été signalées dans l'ouest de la Côte d'Ivoire ces derniers jours", a déclaré le porte-parole du ministère français des Affaires étrangères, François Rivasseau.
+37	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	_
+42	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	41	amod	_	SpaceAfter=No
+# text = Présidente de la Délégation aux droits des femmes de l'Assemblée nationale, Marie-Jo Zimmermann est inquiète.
+19	inquiète	inquiet	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+# text = "Près de trente ans après le combat mené par Françoise Giroud, il est paradoxal de devoir tirer la sonnette d'alarme", confie la députée de Moselle en rendant hommage à celle qui fut secrétaire d'Etat à la Condition féminine.
+2	Près	près	ADV	_	ExtPos=PRON	8	nmod	_	_
+6	après	après	ADP	_	_	8	case	_	_
+# text = En charge du dossier de la parité, au groupe RPR puis à celui de l'UMP, depuis son élection à l'Assemblée en 1998, elle a alerté le gouvernement et Alain Juppé dès qu'il a été question de revoir les modes de scrutin, en juillet dernier.
+38	dès	dès	ADP	_	_	43	mark	_	_
+# text = La députée de Moselle mène donc campagne.
+5	mène	mener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text = Et menace de saisir le Conseil constitutionnel si les projets du gouvernement ne respectent pas l'article 3 de la Constitution qui dispose que "la loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives".
+32	accès	accès	NOUN	_	Gender=Masc|Number=Sing	29	obj	_	_
+1	COURCELLES-LES-MONTBELIARD	Courcelles-lès-Montbéliard	PROPN	_	_	0	root	_	_
+# text = Une jeune fille de 25 ans hébergée chez des parents à Courcelles-lès-Montbéliard, était signalée disparue.
+12	Courcelles-lès-Montbéliard	Courcelles-lès-Montbéliard	PROPN	_	_	7	obl:mod	_	SpaceAfter=No
+# text = Dans un premier temps, les policiers qui ont reçu l'appel de la famille inquiète, ont envoyé plusieurs patrouilles dans le quartier.
+16	inquiète	inquiet	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+# text = Plus d'une quinzaine étaient réquisitionnés pour poursuivre les recherches l'après-midi.
+12	après-midi	après-midi	NOUN	_	Number=Sing	8	obl:mod	_	SpaceAfter=No
+# text = Mais elle a passé toute son enfance à Geney, où après avoir été à l'école communale, elle a gardé les vaches.
+12	après	après	ADP	_	_	14	mark	_	_
+# text = Les obsèques de Denise Jacquin seront célébrées vendredi 10 janvier à 10h30 en l'église de l'Isle-sur-le-Doubs.
+2	obsèques	obsèque	NOUN	_	Gender=Fem|Number=Plur	7	nsubj:pass	_	_
+# text = Du point de vue financier, l'association fonctionne essentiellement grâce à l'aide d'une subvention attribuée par le siège basé à Valenciennes ainsi qu'une cotisation de 17 euros par an et par adhérents.
+22	siège	siège	NOUN	_	Gender=Masc|Number=Sing	19	obl:agent	_	_
+# text = Dernièrement, les élèves de l'école maternelle ont assisté à un spectacle intitulé "Arturo aux quatre coins du monde".
+1	Dernièrement	dernièrement	ADV	_	_	10	advmod	_	SpaceAfter=No
+4	élèves	élève	NOUN	_	Number=Plur	10	nsubj	_	_
+# text = Une agréable surprise qui attendait les enfants dès le matin.
+8	dès	dès	ADP	_	_	10	case	_	_
+# text = L'estimation financière du projet reste valable tant sur le plan de financement que pour l'évolution de la dette.
+3	financière	financier	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+# text = Mme Michèle Demange, adjoint au maire, conduira les opérations.
+2	Michèle	Michèle	PROPN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+# text = Hier en fin d'après-midi, il a signé un nouveau contrat de deux ans, acceptant finalement les propositions de Jacques Rousselot.
+5	après-midi	après-midi	NOUN	_	Number=Sing	3	nmod	_	SpaceAfter=No
+# text = Comme l'attaquant tenait encore à jouer, il refusa et examina d'autres possibilités : "Le Mans, Valence, Sedan et un quatrième club dont je dois taire le nom, me faisaient des offres intéressantes.
+26	quatrième	quatrième	ADJ	_	Number=Sing|NumType=Ord	27	amod	_	_
+# text = J'étais prêt à partir, malgré mon attachement à l'ASNL et à la ville, car à 32 ans, il s'agissait sans doute de ma dernière chance de signer un nouveau contrat".
+30	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	31	amod	_	_
+# text = Bien sûr, Pablo Correa n'a obtenu aucune garantie concernant une place de titulaire : "Je ne revendique rien, mais je connais mes qualités, mon envie et je sens que je peux jouer plus que la saison dernière.
+42	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	41	amod	_	SpaceAfter=No
+# text = Quelques minutes après cette déposition, les gendarmes sortaient de leur brigade pour effectuer une ronde de routine.
+3	après	après	ADP	_	_	5	case	_	_
+# text = Elle avait entre temps donné le jour à trois enfants, dont Mimi, présente pour l'occasion, et reste fière d'être grand-mère et arrière-grand-mère.
+22	fière	fier	ADJ	_	Gender=Fem|Number=Sing	21	xcomp	_	_
+25	grand-mère	grand-mère	NOUN	_	Gender=Fem|Number=Sing	22	xcomp	_	_
+27	arrière-grand-mère	arrière-grand-mère	NOUN	_	Gender=Fem|Number=Sing	25	conj	_	SpaceAfter=No
+# text = à la maison Belot, elle s'est très vite fait remarquer par sa coquetterie, son envie de participer aux "Jeux olympiques inter-établissements" et bien sûr à l'incontournable belote.
+9	très	très	ADV	_	_	10	advmod	_	_
+# text = Il doit être prescrit par un médecin ayant l'expérience des prises en charge urgentes de patients souffrant de problèmes cardiaques ou des interventions sur le coeur.
+21	problèmes	problème	NOUN	_	Gender=Masc|Number=Plur	19	obl:arg	_	_
+# text = La première dose est administrée par injection, et immédiatement suivie par une perfusion.
+2	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
+# text = Pour les SCA, la durée de la perfusion dépend de la manière dont le SCA doit être traité : elle peut durer jusqu'à 72 heures au maximum chez les patients devant recevoir des médicaments.
+13	manière	manière	NOUN	_	Gender=Fem|Number=Sing	10	obl:arg	_	_
+# text = Lorsqu'il est utilisé pour prévenir la formation de caillots sanguins chez les patients subissant une ICP, une dose plus élevée d'Angiox est utilisée, et la perfusion peut être poursuivie jusqu'à quatre heures après la procédure.
+38	après	après	ADP	_	_	40	case	_	_
+# text = Les doses de perfusion doivent être réduites chez les patients ayant des problèmes rénaux subissant une ICP.
+13	problèmes	problème	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+# text = La coagulation sanguine peut poser un problème en cas de perturbation du flux sanguin.
+7	problème	problème	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+# text = Pour le traitement des SCA, l'étude principale a porté sur près de 14 000 patients et a comparé l'efficacité de Angiox, pris seul ou avec un inhibiteur de la glycoprotéine IIb/IIIa (inhibiteur de GP, un autre type de médicament contribuant à prévenir la formation de caillots), avec le traitement standard en combinaison avec de l'héparine (un autre anticoagulant) et un inhibiteur de GP.
+14	près	près	ADV	_	ExtPos=PRON	12	obl:arg	_	_
+# text = Durant l'ICP, un stent (petit tube qui reste dans l'artère afin d'en empêcher la fermeture) est souvent posé chez les patients et d'autres anticoagulants sont également administrés, comme l'abciximab, l'aspirine.
+14	artère	artère	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	_
+# text = Lorsqu'il a été utilisé pour le traitement de SCA, Angiox, administré avec ou sans inhibiteur de GP, a été aussi efficace que le traitement standard pour prévenir l'apparition globale de nouveaux événements (décès, crises cardiaques ou revascularisations) après 30 jours et après un an.
+39	décès	décès	NOUN	_	Gender=Masc|Number=Plur	37	appos	_	SpaceAfter=No
+46	après	après	ADP	_	_	48	case	_	_
+50	après	après	ADP	_	_	52	case	_	_
+# text = Les patients ayant reçu Angiox sans inhibiteur de GP ont également présenté un taux d'hémorragies inférieur après 30 jours et après un an.
+18	après	après	ADP	_	_	20	case	_	_
+22	après	après	ADP	_	_	24	case	_	_
+# text = Pour une liste complète des restrictions, voir la notice.
+4	complète	complet	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+# text = Après l'ICP, la perfusion, ramenée à 0,25 mg/kg/h peut être maintenue pendant 4 à 12 heures si cela se justifie d'un point de vue clinique.
+1	Après	après	ADP	_	_	3	case	_	_
+# text = Pour les patients bénéficiant d'un pontage aorto-coronaire avec CEC, la perfusion de bivalirudine devra être maintenue jusqu'à 1 heure avant l'opération, après quoi la perfusion devra être arrêtée et le patient traité avec de l'héparine non fractionnée.
+27	après	après	ADP	_	_	28	case	_	_
+# text = La perfusion peut se poursuivre jusqu'à 4 heures après l'ICP si cela se justifie d'un point de vue clinique.
+10	après	après	ADP	_	_	12	case	_	_
+# text = Les valeurs ACT 5 minutes après le bolus de bivalirudine atteignent en moyenne 365 +/- 100 secondes.
+6	après	après	ADP	_	_	8	case	_	_
+# text = L'introducteur artériel peut être retiré deux heures après l'arrêt de la perfusion de bivalirudine sans contrôle supplémentaire de l'ACT.
+9	après	après	ADP	_	_	11	case	_	_
+# text = Si l'ACT est inférieur à 225 secondes, un second bolus de 0,3 mg/kg doit être administré et l'ACT doit être contrôlé 5 minutes après l'administration du second bolus.
+29	après	après	ADP	_	_	31	case	_	_
+# text = Angiox est contre-indiqué chez les patients atteints d'insuffisance rénale sévère (TFG < 30 ml/min) ainsi que chez les patients sous dialyse (voir rubrique 4.3).
+11	sévère	sévère	ADJ	_	Number=Sing	9	amod	_	_
+# text = dès lors, la sécurité et l'efficacité de la bivalirudine n'ont pas été étudiées de manière spécifique chez des patients atteints d'insuffisance hépatique.
+1	dès	dès	ADP	_	ExtPos=ADV	16	advmod	_	Idiom=Yes
+18	manière	manière	NOUN	_	Gender=Fem|Number=Sing	16	obl:mod	_	_
+# text = Les patients peuvent être mis sous Angiox 30 minutes après l'arrêt de l'héparine non fractionnée, administrée par voie intraveineuse ou 8 heures après l'arrêt d'une héparine de bas poids moléculaire administrée par voie sous-cutanée.
+10	après	après	ADP	_	_	12	case	_	_
+26	après	après	ADP	_	_	28	case	_	_
+# text = atteints d'insuffisance rénale sévère (TFG < 30 ml/min) ainsi que chez les patients sous dialyse.
+5	sévère	sévère	ADJ	_	Number=Sing	3	amod	_	_
+# text = Mises en garde spéciales et précautions particulières d'emploi
+7	particulières	particulier	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+# text = Bien que la plupart des saignements associés à la bivalirudine se produisent au site d'accès artériel chez les patients qui subissent une ICP, une hémorragie peut se produire à n'importe quel endroit pendant le traitement.
+18	accès	accès	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+# text = Dans cette situation, les paramètres cliniques et biologiques de l'hémostase doivent être régulièrement surveillés.
+6	paramètres	paramètre	NOUN	_	Gender=Masc|Number=Plur	13	nsubj	_	_
+15	régulièrement	régulièrement	ADV	_	_	16	advmod	_	_
+# text = Chez les patients sous warfarine traités par bivalirudine, un suivi de l'INR doit être effectué, après l'arrêt du traitement par bivalirudine, afin de s'assurer du retour de l'INR aux niveaux observés avant le traitement.
+19	après	après	ADP	_	_	21	case	_	_
+# text = Les études animales ne sont pas concluantes pour ce qui est des effets délétères sur la gestation, le développement embryonnaire ou foetal, l'accouchement ou le développement post-natal (voir rubrique 5.3).
+15	délétères	délétère	ADJ	_	Number=Plur	14	amod	_	_
+# text = Angiox doit être administré avec prudence chez les mères qui allaitent.
+9	mères	mère	NOUN	_	Gender=Fem|Number=Plur	4	obl:mod	_	_
+# text = Environ 23,3% des patients recevant de la bivalirudine ont présenté au moins un évènement indésirable et 2,1% ont présenté une réaction indésirable au médicament.
+17	évènement	évènement	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+# text = Les évènements indésirables sont listés par classe de système d'organes dans le tableau 1.
+2	évènements	évènement	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+9	système	système	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+# text = Les saignements mineurs ont été définis comme étant tous événements hémorragiques observés qui ne répondaient pas aux critères des saignements majeurs.
+19	critères	critère	NOUN	_	Gender=Masc|Number=Plur	15	obl:arg	_	_
+# text = Des saignements mineurs ont été rapportés de façon très fréquente (1/10) et les saignements majeurs de façon fréquente (1/100 et < 1/10).
+9	très	très	ADV	_	_	10	advmod	_	_
+# text = Classes de systèmes d'organes
+3	systèmes	système	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
+# text = Troubles du système immunitaire
+4	système	système	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+# text = Troubles du système nerveux
+4	système	système	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+# text = Les évènements indésirables sont listés par classe de système d'organes dans le tableau 4.
+2	évènements	évènement	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+9	système	système	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+# text = La thrombine joue un rôle central dans le processus thrombotique, scindant le fibrinogène en monomères de fibrine et activant le Facteur XIII en Facteur XIIIa, ce qui permet à la fibrine de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus.
+14	fibrinogène	fibrinogène	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+16	monomères	monomère	NOUN	_	Number=Plur	12	obl:arg	_	_
+# text = Ainsi, la bivalirudine commence par agir à la manière d'un inhibiteur non compétitif complet de la thrombine, puis, évolue avec le temps pour devenir un inhibiteur compétitif permettant aux molécules de thrombine initialement inhibées d'interagir avec d'autres substrats de la coagulation et d'induire une coagulation si nécessaire.
+10	manière	manière	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	_
+# text = Après angiographie, les patients sont soit pris en charge médicalement (33%) soit bénéficient d'une angioplastie (56%) ou d'un pontage aorto-coronaire (11%).
+1	Après	après	ADP	_	_	2	case	_	_
+# text = Les résultats sur les saignements à 30 jours selon les critères ACUITY et TIMI pour la population totale (ITT) et les patients ayant reçus de l'aspirine et du clopidogrel per protocol sont présentés dans la table 9.
+11	critères	critère	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+# text = Le critère saignement majeur dans l'étude REPLACE-2 n'est pas défini par des critères TIMI
+2	critère	critère	NOUN	_	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
+15	critères	critère	NOUN	_	Gender=Masc|Number=Plur	12	obl:agent	_	_
+# text = La biodisponibilité de la bivalirudine par voie intraveineuse est complète et immédiate.
+10	complète	complet	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+# text = Le profil de la concentration en fonction du temps après administration intraveineuse est bien décrit par un modèle à deux compartiments.
+11	après	après	ADP	_	_	12	case	_	_
+19	modèle	modèle	NOUN	_	Gender=Masc|Number=Sing	16	obl:agent	_	_
+# text = La clairance de la bivalirudine est similaire chez les patients à fonction rénale normale et chez les patients présentant une légère insuffisance rénale.
+21	légère	léger	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
+# text = Elle est réduite d'environ 20% chez les patients atteints d'insuffisance rénale modérée ou sévère et de 80% chez les patients dépendants de la dialyse (Tableau 11).
+17	sévère	sévère	ADJ	_	Number=Sing	15	conj	_	_
+# text = Après une brève exposition comparable à celle qui prévaut lors d'une utilisation clinique, et même après une exposition à des doses bien plus élevées, il n'a pas été observé d'effet indésirable résultant d'un stress physiologique prolongé en réponse à un état de coagulation non homéostasique.
+1	Après	après	ADP	_	_	4	case	_	_
+3	brève	bref	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+18	après	après	ADP	_	_	20	case	_	_
+# text = La bivalirudine étant destinée à une administration de courte durée, on ne dispose d'aucune donnée concernant son potentiel carcinogène à long terme.
+21	carcinogène	carcinogène	ADJ	_	Number=Sing	20	amod	_	_
+# text = En cas d'utilisation non immédiate, les durées et conditions de conservation après reconstitution et avant utilisation relèvent de la seule responsabilité de l'utilisateur et ne doivent pas dépasser 24 heures entre 2 °C- 8 °C, sauf en cas de reconstitution/dilution réalisée en conditions d'aseptie dûment contrôlées et validées.
+14	après	après	ADP	_	_	15	case	_	_
+19	relèvent	relever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text = Précautions particulières de conservation
+2	particulières	particulier	ADJ	_	Gender=Fem|Number=Plur	1	amod	_	_
+# text = Ajouter 5 ml d'eau pour préparations injectables dans un flacon d'Angiox et mélanger doucement jusqu'à ce que la poudre soit complètement dissoute et que la solution soit claire.
+24	complètement	complètement	ADV	_	_	25	advmod	_	_
+# text = Après reconstitution 1 ml contient 50 mg de bivalirudine.
+1	Après	après	ADP	_	_	2	case	_	_
+# text = Après dilution 1 ml contient 5 mg de bivalirudine.
+1	Après	après	ADP	_	_	2	case	_	_
+# text = - si vous avez ou avez eu une hypertension (tension artérielle élevée) sévère non contrôlée.
+15	sévère	sévère	ADJ	_	Number=Sing	9	amod	_	_
+# text = (0.1 mg/kg signifie un dixième d'un milligramme du médicament pour chaque kilogramme de poids corporel ;
+8	dixième	dixième	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+# text = Si, après cela, vous devez bénéficier d'une intervention coronaire percutanée (ICP), il vous sera administré :
+3	après	après	ADP	_	_	4	case	_	_
+# text = - Après l'intervention, la perfusion sera ramenée à 0,25 mg/kg/h.
+2	Après	après	ADP	_	_	4	case	_	_
+# text = Les doses étant minutieusement vérifiées par le médecin, un surdosage est très peu probable.
+13	très	très	ADV	_	_	14	advmod	_	_
+# text = Dans de très rares cas, ils peuvent entraîner la mort (moins de 1 patient sur 10 000).
+3	très	très	ADV	_	_	4	advmod	_	_
+# text = Si vous remarquez un des effets indésirables, potentiellement sévères, suivants :
+11	sévères	sévère	ADJ	_	Number=Plur	7	amod	_	SpaceAfter=No
+# text = Lorsque vous êtes à l'hôpital : prévenez immédiatement votre médecin ou votre infirmière.
+14	infirmière	infirmier	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+# text = Si vous remarquez un des effets iindésirables, potentiellement moins sévères, suivants :
+12	sévères	sévère	ADJ	_	Number=Plur	7	amod	_	SpaceAfter=No
+# text = Angiox ne doit pas être utilisé après la date d'expiration indiquée sur l'étiquette et le carton après le "EXP".
+7	après	après	ADP	_	_	9	case	_	_
+19	après	après	ADP	_	_	22	case	_	_
+# text = Les patients qui se sont fracturé la hanche doivent attendre au moins deux semaines après l'opération de réparation de la fracture avant de recevoir Aclasta.
+16	après	après	ADP	_	_	18	case	_	_
+# text = Les patients doivent être suffisamment hydratés avant et après le traitement.
+9	après	après	ADP	_	_	7	conj	_	_
+# text = L'incidence des effets indésirables, tels que fièvre, douleurs musculaires, symptômes pseudo-grippaux, douleurs articulaires et céphalées, survenant dans les trois jours suivant la perfusion, peut être diminuée en administrant du paracétamol ou de l'ibuprofène (médicaments anti-inflammatoires) peu après la perfusion d'Aclasta.
+10	fièvre	fièvre	NOUN	_	Gender=Fem|Number=Sing	8	dep	_	SpaceAfter=No
+42	ibuprofène	ibuprofène	NOUN	_	Gender=Masc|Number=Sing	38	conj	_	_
+48	après	après	ADP	_	_	50	case	_	_
+# text = L'effet indésirable le plus fréquent sous Aclasta (observé chez plus d'un patient sur 10) est la fièvre.
+21	fièvre	fièvre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+# text = Dernière mise à jour du présent résumé : 09-2008.
+1	Dernière	dernier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	2	amod	_	_
+# text = Il a été observé une période de rémission prolongée chez les patients répondeurs au traitement de la maladie de Paget après une unique administration d'Aclasta (voir rubrique 5.1).
+22	après	après	ADP	_	_	25	case	_	_
+# text = Cela est particulièrement important pour les patients âgés et les patients qui reçoivent un traitement diurétique.
+3	particulièrement	particulièrement	ADV	_	_	4	advmod	_	_
+# text = Aclasta n'est pas recommandé chez les patients atteints d'insuffisance rénale sévère (clairance de la créatinine < 35 ml/min) en raison d'une expérience clinique limitée dans cette population.
+13	sévère	sévère	ADJ	_	Number=Sing	11	amod	_	_
+# text = Cela est particulièrement important pour les patients âgés et pour les patients recevant un traitement diurétique.
+3	particulièrement	particulièrement	ADV	_	_	4	advmod	_	_
+# text = La prudence est requise en cas d'administration concomitante d'Aclasta et de médicaments susceptibles d'affecter de manière significative la fonction rénale (par exemple, aminosides ou diurétiques susceptibles de provoquer une déshydratation), voir rubrique 4.5.
+19	manière	manière	NOUN	_	Gender=Fem|Number=Sing	17	obl:mod	_	_
+# text = Des douleurs osseuses, articulaires et / ou musculaires sévères et parfois invalidantes ont été rarement rapportées chez les patients traités par des bisphosphonates, y compris Aclasta.
+10	sévères	sévère	ADJ	_	Number=Plur	2	amod	_	_
+# text = Un examen dentaire avec des soins dentaires préventifs appropriés devra être pris en considération avant l'instauration d'un traitement par bisphosphonates chez des patients présentant des facteurs de risque associés (par exemple : cancer, chimiothérapie, corticoïdes ou mauvaise hygiène buccale).
+43	hygiène	hygiène	NOUN	_	Gender=Fem|Number=Sing	36	conj	_	_
+# text = La prudence est requise en cas d'administration concomitante d'Aclasta et de médicaments susceptibles d'affecter de manière significative la fonction rénale (par exemple aminosides ou diurétiques susceptibles de provoquer une déshydratation).
+19	manière	manière	NOUN	_	Gender=Fem|Number=Sing	17	obl:mod	_	_
+# text = Le pourcentage global de patients qui ont présenté des symptômes survenant après l'administration était de respectivement 44,7%, 16,7% et 10,2% après la première, deuxième et troisième perfusion respectivement.
+12	après	après	ADP	_	_	14	case	_	_
+26	après	après	ADP	_	_	33	case	_	_
+28	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	33	amod	_	SpaceAfter=No
+30	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	28	conj	_	_
+32	troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	28	conj	_	_
+# text = L'incidence individuelle de ces symptômes après la première administration était : fièvre (17,1%), myalgie (7,8%), syndrome pseudo-grippal (6,7%), arthralgie (4,8%) et céphalée (5,1%).
+7	après	après	ADP	_	_	10	case	_	_
+9	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	_
+13	fièvre	fièvre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+# text = La majorité de ces symptômes est survenu dans les trois premiers jours suivant l'administration d'Aclasta, a été d'intensité légère à modérée et a disparu dans les trois jours suivant leur survenue.
+23	légère	léger	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
+# text = Le pourcentage de patients présentant des symptômes après l'injection était respectivement de 19,5%, 10,4%, 10,7% après la première, deuxième et troisième perfusion, dans une étude de plus petite taille où le traitement symptomatique décrit ci-dessous avait été utilisé.
+8	après	après	ADP	_	_	10	case	_	_
+22	après	après	ADP	_	_	29	case	_	_
+24	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	29	amod	_	SpaceAfter=No
+26	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	24	conj	_	_
+28	troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	24	conj	_	_
+# text = L'incidence des symptômes survenant dans les trois premiers jours suivant l'administration d'Aclasta peut être diminuée en administrant du paracétamol ou de l'ibuprofène peu après l'administration d'Aclasta (voir rubrique 4.2).
+27	ibuprofène	ibuprofène	NOUN	_	Gender=Masc|Number=Sing	23	conj	_	_
+29	après	après	ADP	_	_	31	case	_	_
+# text = Dans les études HORIZON-PFT et HORIZON-RFT (étude après fracture de hanche), l'incidence globale des fibrillations auriculaires a été comparable entre le groupe Aclasta (2,6%) et le groupe placebo (2,1)%.
+9	après	après	ADP	_	_	10	case	_	_
+# text = Les effets indésirables très fréquents (1/10), fréquents (1/100, < 1/10), peu fréquents (1/1000, < 1/100) et rares (1/10 000, < 1/1 000) sont présentés dans le Tableau 1.
+4	très	très	ADV	_	_	5	advmod	_	_
+# text = Basé sur des données après commercialisation.
+5	après	après	ADP	_	_	6	case	_	_
+# text = D'après l'évaluation des paramètres biologiques issue d'une vaste étude clinique, il a été observé des valeurs, transitoires et asymptomatiques, de calcémie inférieures aux valeurs normales de référence chez 2,3% des patients traités avec Aclasta comparé à 21% des patients traités avec Aclasta dans les études de la maladie de Paget.
+2	après	après	ADP	_	_	1	fixed	_	InIdiom=Yes
+7	paramètres	paramètre	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+# text = Tous les patients ont reçu une supplémentation en vitamine D et en calcium : dans l'étude menée sur l'ostéoporose post-ménopausique (étude PFT), dans l'étude sur la prévention des fractures cliniques après fracture de hanche (étude RFT) ainsi que dans les études de la maladie de Paget (voir également rubrique 4.2).
+38	après	après	ADP	_	_	39	case	_	_
+# text = Au cours d'une vaste étude, des réactions locales au site de perfusion, telles qu'une rougeur, un gonflement et/ou une douleur (0,7%), ont été observées après l'administration d'acide zolédronique.
+38	après	après	ADP	_	_	40	case	_	_
+# text = Les valeurs minimales s'observent après 7 jours pour les marqueurs de résorption, et après 12 semaines pour les marqueurs de formation.
+6	après	après	ADP	_	_	8	case	_	_
+16	après	après	ADP	_	_	18	case	_	_
+# text = Les traitements anti-ostéoporotiques concomitants incluaient : calcitonines, raloxifène, tamoxifène, traitement hormonal de substitution, tibolone ; mais excluaient les autres bisphosphonates.
+9	raloxifène	raloxifène	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+11	tamoxifène	tamoxifène	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+# text = Le Tableau 3 présente une synthèse des résultats.
+6	synthèse	synthèse	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+# text = Un an après l'administration de la troisième dose annuelle, des biopsies osseuses ont été effectuées au niveau de la crête iliaque chez 152 patientes atteintes d'ostéoporose post-ménopausique traitées par Aclasta (N=82) ou par placebo (N=70).
+3	après	après	ADP	_	_	5	case	_	_
+8	troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	9	amod	_	_
+# text = Les phosphatases alcalines spécifiques osseuses (PASO), les taux sériques du propeptide N-terminal du collagène de type I (P1NP) et les taux sériques de bêta-C-télopeptides (-CTx) ont été évalués à intervalles réguliers au cours de l'étude dans des sous-groupes incluant 517 à 1 246 patientes.
+19	collagène	collagène	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+# text = Au cours de l'étude sur trois ans dans l'ostéoporose postménopausique, la taille a été mesurée annuellement en utilisant un stadiomètre.
+24	stadiomètre	stadiomètre	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
+# text = Efficacité clinique dans le traitement de l'ostéoporose chez les patients à risque élevé de fractures après une fracture de hanche récente (RFT)
+17	après	après	ADP	_	_	19	case	_	_
+# text = Aclasta a été étudié chez des hommes et femmes âgés de plus de 30 ans atteints de la maladie de Paget principalement légère à modérée (taux médians de phosphatases alcalines sériques 2,6 à 3,0 fois la limite supérieure de la normale en fonction de l'âge à l'inclusion dans l'étude) et confirmée par radiographies.
+23	légère	léger	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	_
+# text = Sur 143 patients traités par Aclasta, 141 patients ont eu une réponse thérapeutique maintenue après une durée médiane de 18 mois de suivi à partir de la perfusion et sur 107 patients traités par le risédronate, 71 patients ont eu une réponse thérapeutique maintenue.
+16	après	après	ADP	_	_	18	case	_	_
+# text = L'histologie osseuse a été évaluée 6 mois après le traitement par 5 mg d'acide zolédronique chez 7 patients atteints de la maladie de Paget.
+9	après	après	ADP	_	_	11	case	_	_
+# text = Aucune accumulation de la substance active n'a été observée dans le plasma après l'administration de doses multiples tous les 28 jours.
+14	après	après	ADP	_	_	16	case	_	_
+# text = Au cours des 24 premières heures, 39 ± 16% de la dose administrée sont récupérés dans les urines, le reste de la dose se liant principalement au tissu osseux.
+7	premières	premier	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	8	amod	_	_
+# text = Il est ensuite libéré très lentement du tissu osseux dans la circulation systémique et éliminé par voie rénale.
+5	très	très	ADV	_	_	6	advmod	_	_
+# text = à la ménopause, les ovaires arrêtent leur production d'hormones féminines, les estrogènes, qui permet de maintenir les os en bonne santé.
+15	estrogènes	estrogène	NOUN	_	Gender=Masc|Number=Plur	11	appos	_	SpaceAfter=No
+# text = Après la ménopause, une perte osseuse survient, les os deviennent plus fragiles et se cassent plus facilement.
+1	Après	après	ADP	_	_	3	case	_	_
+# text = Une diminution du taux circulant des hormones sexuelles, principalement des estrogènes convertis à partir des androgènes, joue aussi un rôle dans la perte osseuse graduelle observée chez les hommes.
+14	estrogènes	estrogène	NOUN	_	Gender=Masc|Number=Plur	9	appos	_	_
+20	androgènes	androgène	NOUN	_	Gender=Masc|Number=Plur	16	obl:arg	_	SpaceAfter=No
+# text = - si vous avez des problèmes rénaux ou si vous en avez eu.
+6	problèmes	problème	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+# text = Si vous prenez ou avez pris récemment un autre médicament, y compris un médicament obtenu sans ordonnance, parlez-en à votre médecin, à votre pharmacien ou à votre infirmière.
+32	infirmière	infirmier	NOUN	_	Gender=Fem|Number=Sing	24	conj	_	SpaceAfter=No
+# text = Il est particulièrement important que votre médecin soit informé si vous prenez des médicaments connus comme étant nuisibles pour vos reins.
+3	particulièrement	particulièrement	ADV	_	_	4	advmod	_	_
+# text = Assurez-vous de boire suffisamment (au moins un à deux verres) avant et après le traitement par Aclasta, selon les instructions de votre médecin : ceci afin d'éviter une déshydratation.
+17	après	après	ADP	_	_	15	conj	_	_
+# text = Demandez conseil à votre médecin, votre pharmacien ou votre infirmière avant de prendre tout médicament.
+11	infirmière	infirmier	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
+# text = Suivez attentivement toutes les instructions qui vous sont données par votre médecin ou votre infirmière.
+15	infirmière	infirmier	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+# text = Si vous manquez l'administration d'une dose d'Aclasta Contactez dès que possible votre médecin ou l'hôpital pour planifier un nouveau rendez-vous.
+12	dès	dès	ADP	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
+# text = Si vous avez d'autres questions sur l'utilisation de ce médicament, demandez plus d'informations à votre médecin, à votre pharmacien ou à votre infirmière.
+28	infirmière	infirmier	NOUN	_	Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+# text = Les effets indésirables liés à la première perfusion sont très fréquents (survenant chez plus de 30% des patients) mais sont moins fréquents lors des perfusions suivantes.
+7	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
+10	très	très	ADV	_	_	11	advmod	_	_
+# text = Votre médecin peut vous conseiller de prendre un médicament contre la douleur tel que l'ibuprofène ou le paracétamol afin de réduire ces effets indésirables
+16	ibuprofène	ibuprofène	NOUN	_	Gender=Masc|Number=Sing	13	dep	_	_
+# text = Effets indésirables très fréquents (affectant 10 patients sur 100 ou plus) :
+3	très	très	ADV	_	_	4	advmod	_	_
+# text = Fièvre.
+1	Fièvre	fièvre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+# text = Fièvre et frissons, maux de tête, sensation de malaise, douleurs dans vos muscles, douleurs dans vos os et/ou vos articulations, fatigue, faiblesse, étourdissements, vomissements, douleurs au niveau du dos, des bras ou des jambes.
+1	Fièvre	fièvre	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+# text = Chez les patients atteints de la maladie de Paget : symptômes liés à un faible taux de calcium dans le sang, tels que spasmes musculaires, engourdissements ou sensation de fourmillements, particulièrement autour de la bouche.
+34	particulièrement	particulièrement	ADV	_	_	35	advmod	_	_
+# text = Symptômes pseudo-grippal, insomnie, fatigue, sensations de fourmillements ou de picotements, somnolence, tremblements, perte de connaissance temporaire, troubles du goût, diarrhée, indigestion, douleurs abdominales, bouche sèche, inflammation de l'oesophage, mal de dent, douleurs articulaires, gonflement articulaire, raideurs, troubles du comportement alimentaire, rougeurs, démangeaisons et douleurs au niveau des yeux, douleur thoracique, augmentation de la pression artérielle, bouffées congestives, difficultés respiratoires, éruption cutanée, transpiration, démangeaisons, rougeur de la peau, miction fréquente, augmentation transitoire des taux sériques de créatinine, gonflement des tissus et soif.
+37	sèche	sec	ADJ	_	Gender=Fem|Number=Sing	36	amod	_	SpaceAfter=No
+# text = Les bisphosphonates (groupe de substances à laquelle appartient Aclasta) peuvent provoquer des gonflements, rougeurs, douleurs, démangeaisons aux yeux ou une sensibilité des yeux à la lumière.
+33	lumière	lumière	NOUN	_	Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
+# text = Des réactions allergiques ont été rapportées, incluant de rares cas de difficultés respiratoires, d'urticaire et d'oedèmes de Quincke (tel un gonflement du visage, de la langue ou du cou).
+20	oedèmes	oedème	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	_
+# text = Ces effets sont des cas isolés de réactions allergiques très sévères.
+10	très	très	ADV	_	_	11	advmod	_	_
+11	sévères	sévère	ADJ	_	Number=Plur	8	amod	_	SpaceAfter=No
+# text = Si vous ressentez un des effets mentionnés comme graves ou si vous présentez des effets indésirables non mentionnés dans cette notice, veuillez-en informer votre médecin, votre pharmacien ou votre infirmière.
+34	infirmière	infirmier	NOUN	_	Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
+# text = Votre médecin, votre pharmacien ou votre infirmière sait dans quelles conditions conserver correctement Aclasta.
+8	infirmière	infirmier	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+# text = - Ne pas utiliser Aclasta après la date de péremption mentionnée sur la boîte et le flacon.
+6	après	après	ADP	_	_	8	case	_	_
+# text = - Après ouverture du flacon : il faut utiliser le produit immédiatement afin d'éviter une contamination microbienne.
+2	Après	après	ADP	_	_	3	case	_	_
+# text = Aclasta n'est pas recommandé chez des patients présentant une atteinte rénale sévère (clairance de la créatinine < 35 ml/min) en raison d'un manque d'expérience clinique suffisante dans cette population.
+13	sévère	sévère	ADJ	_	Number=Sing	11	amod	_	_
+# text = Chez les patients ayant eu récemment une fracture de hanche, il est recommandé d'administrer Aclasta 2 semaines ou plus après réparation de la fracture.
+22	après	après	ADP	_	_	23	case	_	_
+# text = Les patients doivent être hydratés convenablement avant et après l'administration d'Aclasta, cela est particulièrement important pour les patients recevant un traitement diurétique.
+9	après	après	ADP	_	_	7	conj	_	_
+17	particulièrement	particulièrement	ADV	_	_	18	advmod	_	_
+# text = - Ne pas utiliser Aclasta après la date de péremption figurant sur la boîte et le flacon.
+6	après	après	ADP	_	_	8	case	_	_
+# text = - Les flacons non ouverts ne nécessitent pas de conditions particulières de conservation.
+11	particulières	particulier	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	_
+# text = - Après ouverture du flacon, le produit doit être utilisé immédiatement afin d'éviter toute contamination microbienne.
+2	Après	après	ADP	_	_	3	case	_	_
+# text = Si le produit n'est pas utilisé immédiatement, la durée et les conditions de conservation avant utilisation relèvent de la responsabilité de l'utilisateur et ne doivent pas normalement dépasser 24 heures à une température de 2 °C à 8 °C.
+19	relèvent	relever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text = Je suis certain qu'il a conscience de la menace très grave qui pèse sur le modèle européen fondé sur l'exploitation familiale.
+11	très	très	ADV	_	_	12	advmod	_	_
+14	pèse	peser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+17	modèle	modèle	NOUN	_	Gender=Masc|Number=Sing	14	obl:arg	_	_
+# text = Je voudrais demander quelles nouvelles initiatives peut prendre le Conseil pour préserver les intérêts de ces agriculteurs dans le cadre des prochaines négociations sur le commerce mondial, en particulier face à la production à grande échelle et de style industriel des États-Unis et de la Nouvelle-Zélande, où les économies d'échelle font qu'il est extrêmement difficile pour les exploitations familiales européennes de rester compétitives et où, bien sûr, les normes européennes en matière de sécurité alimentaire ne s'appliquent pas.
+80	matière	matière	NOUN	_	Gender=Fem|Number=Sing	77	nmod	_	_
+# text = Pourquoi nous occupons-nous de ce problème ?
+7	problème	problème	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_
+# text = Parallèlement, nous avons veillé à ce que les régions septentrionales de l'Union, le nord de la Finlande, le nord de la Suède, le nord de la Norvège, le Groenland et d'autres régions où les ballasts électroniques ne conviennent pas puissent continuer à utiliser des ballasts magnétiques.
+1	Parallèlement	parallèlement	ADV	_	_	5	advmod	_	SpaceAfter=No
+26	Suède	Suède	PROPN	_	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+32	Norvège	Norvège	PROPN	_	Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+# text = Madame la Présidente, mes chers collègues, nous croyions, jusqu'à présent, que l'Union européenne était, selon les dispositions des traités de Rome et de Paris qui avaient fondé les Communautés, devenues Union, une association d'États libres, indépendants et souverains.
+7	collègues	collègue	NOUN	_	Number=Plur	1	conj	_	SpaceAfter=No
+# text = Même si de nombreuses évolutions nous avaient permis d'en douter, nous avions considéré malgré tout que tel était le cas et, récemment encore, on faisait allusion, du bout des lèvres, il est vrai, au principe de subsidiarité.
+37	lèvres	lèvre	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No
+# text = Or, il apparaît aujourd'hui évident que si l'on ouvre, Madame la Présidente, le débat que vous nous demandez d'ouvrir, et que la Conférence des présidents nous demande d'ouvrir, sur le fondement de l'article 50, alors on ouvre une brèche redoutable dans le principe de la liberté, de la souveraineté des États, de la constitution libre des gouvernements qui sont issus d'élections démocratiques, alors demain une autre majorité dans ce Parlement pourra s'arroger une immixtion dans la constitution d'un gouvernement résultant cependant d'élections libres, régulières, paisibles et démocratiques à l'intérieur d'un État membre.
+49	brèche	brèche	NOUN	_	Gender=Fem|Number=Sing	47	obj	_	_
+104	régulières	régulier	ADJ	_	Gender=Fem|Number=Plur	102	conj	_	SpaceAfter=No
+# text = Madame la Présidente, cette résolution me pose un problème majeur.
+10	problème	problème	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+# text = Premièrement, il y a la question concernant la lutte contre l'intolérance au moyen de l'intolérance et les conséquences à long terme de cette approche.
+1	Premièrement	premièrement	ADV	_	_	5	advmod	_	SpaceAfter=No
+# text = M. Wurtz devrait peut-être se rappeler qu'il n'y a pas si longtemps, des collègues de son parti, des maires communistes français, envoyaient des bulldozers contre des foyers d'immigrés en France.
+17	collègues	collègue	NOUN	_	Number=Plur	27	nsubj	_	_
+# text = Monsieur le Président, Monsieur le Commissaire, l'avènement du traité de l'OMPI a constitué un remarquable progrès vers une société mondiale de l'information.
+10	avènement	avènement	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
+21	progrès	progrès	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+# text = Je ne parle donc pas maintenant de la recommandation de Mme Charlotte Cederschiöld, qui est un excellent document, mais bien des thèmes en rapport avec le droit d'auteur et qui ont été traités par le Parlement précédent.
+25	thèmes	thème	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+# text = Bien que je pense que certains aspects du rapport pourraient être mieux traités d'une autre manière, je crois dans l'ensemble que ce rapport offre une approche flexible et censée et qu'il faut l'appuyer.
+18	manière	manière	NOUN	_	Gender=Fem|Number=Sing	14	obl:mod	_	SpaceAfter=No
+# text = Monsieur le Président, chers collègues, Monsieur Sakellariou, je ne soutiens pas M. Dupuis, mais je pense qu'il ne faut pas se voiler la face.
+6	collègues	collègue	NOUN	_	Number=Plur	1	conj	_	SpaceAfter=No
+# text = Si vous signez quelque chose avec M. Modrow, vous pouvez très bien le faire avec M. Dupuis ou d'autres.
+12	très	très	ADV	_	_	13	advmod	_	_
+# text = Il n'est malheureusement pas question de vouloir résoudre aujourd'hui les problèmes généraux du Kosovo.
+12	problèmes	problème	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+# text = Nous sommes ici pour discuter de l'actualité urgente, laquelle consiste à traiter pour la deuxième fois d'une résolution sur le thème des "prisonniers Kosovars albanais en Serbie".
+17	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	18	amod	_	_
+24	thème	thème	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
+# text = Je me suis rendu dernièrement à Pristina et, à l'université, j'ai cherché en vain trois étudiants que je connais depuis de longues années.
+5	dernièrement	dernièrement	ADV	_	_	4	advmod	_	_
+# text = Je crois que nous devrions nous pencher sur ce problème.
+10	problème	problème	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	_	SpaceAfter=No
+# text = Je suis ici entièrement d'accord avec M. Sakellariou.
+4	entièrement	entièrement	ADV	_	_	5	advmod	_	_
+# text = La guerre en Tchétchénie, comme toute guerre, est un cortège d'horreurs.
+12	cortège	cortège	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = La Russie est membre permanent du Conseil de sécurité de l'ONU, membre à part entière du Conseil de l'Europe et de l'OSCE, invitée du G7, cliente du FMI et de la Banque mondiale.
+18	entière	entier	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
+# text = Il est toutefois intéressant de préciser que la petite pêche côtière démontre qu'il est possible de combiner une activité de pêche et un développement durable non agressif pour le milieu marin.
+11	côtière	côtier	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+# text = Monsieur le Commissaire, j'ai quelques questions très simples à vous poser qui ne vous demandent chacune qu'une réponse par oui ou par non.
+9	très	très	ADV	_	_	10	advmod	_	_
+# text = De plus, je suis très satisfait de la réponse de M. Lamy -il ne pouvait en être autrement étant donné que M. Lamy connaît bien ces sujets- de décentraliser la campagne d'information.
+6	très	très	ADV	_	_	7	advmod	_	_
+# text = La décentralisation de la campagne est dès lors une mission prioritaire.
+7	dès	dès	ADP	_	ExtPos=ADV	10	advmod	_	Idiom=Yes
+# text = La recommandation pour la deuxième lecture dont il est question constitue un acte législatif très important pour l'environnement, mais également pour l'économie au sein de l'Union européenne.
+5	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	6	amod	_	_
+15	très	très	ADV	_	_	16	advmod	_	_
+# text = Après analyse, toutes les propositions d'amendement -quand bien même elles sont peut-être bien intentionnées sur le plan écologique- ne contribuent pas à une amélioration de la situation actuelle.
+1	Après	après	ADP	_	_	2	case	_	_
+# text = C'est ce que mettent à mon avis en lumière quelques propositions d'amendement relatives à la coïncinération qui ont été déposées en commission et qui sont maintenant présentées une nouvelle fois en séance plénière.
+10	lumière	lumière	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	_
+35	plénière	plénier	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	SpaceAfter=No
+# text = Si nous limitons la coïncinération, cela ne nous garantit pas que nos attentes en matière d'environnement seront satisfaites.
+16	matière	matière	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+# text = En plaçant mal les haies, nous n'atteindrons pas non plus le bon objectif en matière d'environnement.
+17	matière	matière	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	_
+# text = C'est la raison pour laquelle notre groupe rejette les propositions d'amendement qui ont à nouveau été introduites par M. Blokland, les verts et d'autres collègues.
+29	collègues	collègue	NOUN	_	Number=Plur	21	conj	_	SpaceAfter=No
+# text = Je crois que cette proposition est réaliste, ce que concède également l'industrie concernée avec retenue.
+11	concède	concéder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+# text = Nous voulons protéger notre droit à avoir des idées, des sentiments, des émotions, contre l'invasion technologique des grands frères, comme nous le laisse à penser le cas récent d'Échelon, sur lequel cette Assemblée se penchera sous peu.
+24	frères	frère	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+# text = Monsieur le Président, la Commission voudrait avant tout saluer la déclaration très claire du représentant du Conseil, selon laquelle le système Eurodac est un système qui n'est conçu que pour mettre en oeuvre la convention de Dublin.
+13	très	très	ADV	_	_	14	advmod	_	_
+25	système	système	NOUN	_	Gender=Masc|Number=Sing	29	nsubj	_	_
+29	système	système	NOUN	_	Gender=Masc|Number=Sing	12	acl:relcl	_	_
+# text = Je voudrais également confirmer, comme le représentant du Conseil l'a déjà précisé, que l'application territoriale du règlement Eurodac pose un problème.
+23	règlement	règlement	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+27	problème	problème	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	SpaceAfter=No
+# text = Néanmoins, ce sujet est très sensible, comme l'a déjà montré le débat, et représente l'un des quelques exemples où les trois institutions n'ont pas la même position, comme je l'ai très clairement déclaré au Parlement.
+6	très	très	ADV	_	_	7	advmod	_	_
+40	très	très	ADV	_	_	41	advmod	_	_
+# text = Nous avons dès lors décidé, même si on ne nous avait pas demandé d'élaborer de nouvelle proposition, de fournir un travail supplémentaire pour clarifier les options politiques qui sont sur la table et de présenter une nouvelle proposition au Conseil.
+3	dès	dès	ADP	_	ExtPos=ADV	5	advmod	_	Idiom=Yes
+# text = Dans sa nouvelle proposition, la Commission reprend la solution proposée par le Parlement, à savoir l'effacement des données dès qu'un ressortissant reçoit le statut de réfugié.
+23	dès	dès	ADP	_	_	27	mark	_	_
+# text = Cela est peut-être dû au fait que je viens d'un pays -d'où provient également le représentant du Conseil- où l'on prend les empreintes digitales de nos enfants lorsqu'ils atteignent l'âge de dix ans, en vue de leur donner leur première carte d'identité.
+49	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	50	amod	_	_
+# text = Je ne peux concevoir que mon pays est un pays qui considère tous les enfants de 10 ans comme des criminels tout bonnement parce qu'on a pris leurs empreintes pour leur première carte d'identité.
+12	considère	considérer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+33	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	34	amod	_	_
+# text = Cependant, j'admets qu'il s'agit d'une question très sensible.
+12	très	très	ADV	_	_	13	advmod	_	_
+# text = Premièrement, nous ne devrions pas demander à Eurodac de fournir des réponses qu'Eurodac ne peut fournir.
+1	Premièrement	premièrement	ADV	_	_	5	advmod	_	SpaceAfter=No
+# text = Nous voulons lancer un débat non seulement sur les problèmes techniques d'Eurodac mais également sur les solutions essentielles de la convention de Dublin actuelle.
+10	problèmes	problème	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+# text = Nous souhaitons brosser le portrait le plus large possible de tous les instruments qui concernent la politique en matière d'asile.
+19	matière	matière	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+# text = Nous ne sommes pas d'accord que le Conseil se réserve les pouvoirs de mise en oeuvre du système.
+20	système	système	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+# text = Selon la proposition de la Commission, les pouvoirs exécutifs, les pouvoirs de mise en oeuvre du système devraient être délégués à la Commission, associée à un comité composé de représentants de tous les États membres.
+20	système	système	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+# text = Nous sommes d'avis que cela apportera davantage de cohérence et de transparence dans la manière de gérer le système et de renforcer la capacité du Parlement à examiner la manière dont la Commission gère et développe le système Eurodac.
+16	manière	manière	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	_
+20	système	système	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
+32	manière	manière	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	_
+36	gère	gérer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	_
+40	système	système	NOUN	_	Gender=Masc|Number=Sing	36	obj	_	_
+# text = Il est inconcevable que la Commission puisse dire "cela n'est pas très important pour nous" pour un petit État qui n'a peut-être aucune matière première, qui mène une politique relativement bonne dans la région en matière des droits de l'homme et où l'agriculture reste une activité dominante.
+14	très	très	ADV	_	_	15	advmod	_	_
+28	matière	matière	NOUN	_	Gender=Fem|Number=Sing	25	obj	_	_
+29	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	28	amod	_	SpaceAfter=No
+32	mène	mener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	_
+41	matière	matière	NOUN	_	Gender=Fem|Number=Sing	34	nmod	_	_
+# text = L'Agence internationale de l'énergie atomique a conclu, après plusieurs enquêtes de terrain, que l'Irak ne possède aucune capacité de production d'armes nucléaires, et ceci a été confirmé dans les rapports des trois groupes d'experts sur l'Irak, comme le précise aujourd'hui la résolution 1284 du Conseil de sécurité.
+11	après	après	ADP	_	_	13	case	_	_
+21	possède	posséder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+# text = Pour la première fois depuis dix ans, une délégation américaine de conseillers et de parlementaires a publié hier 14 mars, au retour d'un voyage effectué en Irak, un rapport dans lequel elle appelle, pour des raisons humanitaires, à la levée de l'embargo.
+3	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
+# text = Cependant, comme la Commission le sait, un certain nombre d'États membres au sein de l'Union européenne ont créé des systèmes régionaux de gouvernement.
+25	systèmes	système	NOUN	_	Gender=Masc|Number=Plur	23	obj	_	_
+# text = Il apparaît qu'il n'existe aucun mécanisme, en dépit des propos de M. le commissaire, destiné à assurer les deux points suivants : premièrement, que la règle d'additionnalité soit appliquée à ce calcul et deuxièmement, que le montant du financement européen dévolu en fin de compte aux régions individuelles corresponde directement au montant réservé à ces régions au stade de la planification.
+28	premièrement	premièrement	ADV	_	_	36	advmod	_	SpaceAfter=No
+32	règle	règle	NOUN	_	Gender=Fem|Number=Sing	36	nsubj:pass	_	_
+41	deuxièmement	deuxièmement	ADV	_	_	59	advmod	_	SpaceAfter=No
+# text = Bien que je sois originaire d'Écosse, je sais que ces problèmes ne sont pas uniquement des sujets de grande inquiétude pour mes collègues sociaux-démocrates d'autres régions du Royaume-Uni mais également pour les membres de l'ELDR qui représentent des régions de toute l'Union européenne.
+13	problèmes	problème	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	_
+25	collègues	collègue	NOUN	_	Number=Plur	19	obl:mod	_	_
+# text = Je sais, Madame la Présidente, que vous êtes déjà intervenue pour solliciter la présence au procès d'une délégation du Parlement européen, à la demande de certains députés.
+19	procès	procès	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+# text = Je suis contraint de vous redemander d'intervenir, à vous et à la Commission, pour que ce procès se déroule dans le respect total des droits de l'homme, pour qu'on ne condamne pas à mort treize personnes sans connaître tous les tenants et aboutissants, vu que cette Assemblée s'est exprimée à plus d'une reprise contre la peine capitale.
+20	procès	procès	NOUN	_	Gender=Masc|Number=Sing	22	nsubj	_	_
+# text = Je vous remercie d'avance pour tout ce que vous ferez et pour tout ce que ce Parlement et la Commission feront pour la défense de la liberté et le respect des droits de la défense dans ce procès à charge de treize Juifs iraniens.
+40	procès	procès	NOUN	_	Gender=Masc|Number=Sing	22	obl:mod	_	_
+# text = Madame la Présidente, je voudrais préciser clairement que si nous avons convenu que le Zimbabwe serait le cinquième point, alors il n'y a pas lieu de voter sur d'autres points parce que nous avons déjà cinq points à l'ordre du jour.
+19	cinquième	cinquième	ADJ	_	Number=Sing|NumType=Ord	20	amod	_	_
+# text = Pour le second point, si je peux me permettre de répondre à côté de la question, l'histoire de ces cinquante dernières années n'indique pas que des institutions comme la Commission représentent habituellement un problème à cet égard.
+24	dernières	dernier	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	25	amod	_	_
+38	problème	problème	NOUN	_	Gender=Masc|Number=Sing	35	obj	_	_
+# text = Je ne pense vraiment pas que cela soit un problème.
+10	problème	problème	NOUN	_	Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
+# text = J'espère que nous pourrons résoudre cette question de manière civilisée et raisonnable.
+2	espère	espérer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	manière	manière	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	_
+# text = Nous essayons de suivre les termes du Traité et de le faire uniquement quand cela est utile à la mise en oeuvre globale d'une politique étrangère et de sécurité commune.
+28	étrangère	étranger	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
+# text = Madame la Présidente, Monsieur le Ministre, Monsieur le Secrétaire d'État, Monsieur le Commissaire, chers collègues, nous voici face à un tournant réellement très important dans l'évolution de l'Union européenne.
+20	collègues	collègue	NOUN	_	Number=Plur	1	conj	_	SpaceAfter=No
+29	très	très	ADV	_	_	30	advmod	_	_
+# text = L'Union européenne est appelée, à travers les procédures de la Conférence intergouvernementale, à répondre aux grands défis qui marquent le passage du XXe au XXIe siècle, des défis majeurs que nous connaissons tous, qui influent chaque jour sur le cours de l'Union, des défis, surtout, qui soulèvent une question de fond : dans quelle mesure sommes-nous prêts, en tant qu'institution, en tant qu'Union européenne, à y faire face ?
+32	siècle	siècle	NOUN	_	Gender=Masc|Number=Sing	28	obl:arg	_	SpaceAfter=No
+59	soulèvent	soulever	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	54	acl:relcl	_	_
+# text = Et comme vous savez, Madame la Présidente, chers collègues, l'Union européenne en est arrivée là où elle est aujourd'hui, avec ses réussites, précisément parce qu'elle a fonctionné et continue à fonctionner sur la base d'un équilibre de forces qui avait été convenu et faisait l'objet d'un consensus.
+11	collègues	collègue	NOUN	_	Number=Plur	6	conj	_	SpaceAfter=No
+# text = Le troisième principe fondamental consacré dans le rapport est précisément la proposition d'une révision générale -j'insiste sur "générale"- de l'ensemble des institutions qui composent l'Union européenne.
+2	troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	3	amod	_	_
+# text = Et il est très naturel, quand nous constatons et convenons tous que dans une Europe de quinze États membres il y a déjà des dysfonctionnements auxquels il convient de remédier, qu'il faille à plus forte raison le faire quand nous parlerons d'une Union de 18, 20, 25 et 27 membres.
+4	très	très	ADV	_	_	5	advmod	_	_
+# text = Le quatrième point consiste en certaines propositions nouvelles, bien que les questions auxquelles elles se réfèrent aient toujours fait l'objet de discussions.
+2	quatrième	quatrième	ADJ	_	Number=Sing|NumType=Ord	3	amod	_	_
+18	réfèrent	référer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+# text = Le deuxième élément est un surcroît de conception démocratique, ce qui signifie que si un ou plusieurs pays, quels qu'ils soient, pour une raison quelconque, souhaitent, du moins dans un premier temps, ne pas participer, cela ne peut être tenu pour une exclusion ni pour une limitation de leur présence au sein de l'Union.
+2	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	3	amod	_	_
+# text = Pour ma part, je voudrais que la coopération renforcée s'étende aux questions de politique étrangère et à d'autres domaines.
+18	étrangère	étranger	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
+# text = Pour me faire mieux comprendre, je dirai que la coopération renforcée est une procédure communautaire dans laquelle doivent s'inscrire les questions de la politique étrangère et de défense commune, car il existe ainsi des mécanismes de contrôle.
+27	étrangère	étranger	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
+# text = Je terminerai en exprimant mes remerciements à la présidence portugaise, et en particulier à M. Da Costa pour la collaboration que nous avons eue, au commissaire, M. Barnier, à vous et à tous les collègues et, bien sûr, au corapporteur, M. Leinen, pour le rude mais très bon travail que nous avons accompli de concert, ainsi qu'aux membres du secrétariat du Parlement qui nous ont assistés et aux interprètes qui ont bien souvent dépassé l'horaire pour nous permettre de mener les négociations difficiles que vous concevez.
+40	collègues	collègue	NOUN	_	Number=Plur	9	conj	_	_
+57	très	très	ADV	_	_	58	advmod	_	_
+85	interprètes	interprète	NOUN	_	Number=Plur	9	conj	_	_
+# text = Un grand merci également au commissaire Barnier pour sa compréhension et merci également à notre collègue Vitorino, en particulier pour un point que je souhaiterais exposer à présent.
+17	collègue	collègue	NOUN	_	Number=Sing	13	nmod	_	_
+# text = Le Traité UE stipule très clairement que le Parlement européen donne décharge à la Commission pour l'exécution du budget.
+5	très	très	ADV	_	_	6	advmod	_	_
+# text = Dans la pratique, il s'agit cependant de deux actes que nous exécutons, à savoir d'une part l'évaluation politique dans la décision de décharge et, dans un deuxième acte, la clôture des comptes de l'exercice.
+33	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	34	amod	_	_
+# text = en effet, notre règlement le stipule déjà et, comme je l'ai dit, cela correspond à la pratique.
+5	règlement	règlement	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+# text = Ceci doit maintenant également s'opérer au sens pénal sur le plan européen dans le cadre d'une coopération très ouverte et très claire avec les pays membres ;
+21	très	très	ADV	_	_	22	advmod	_	_
+24	très	très	ADV	_	_	25	advmod	_	_
+# text = Je suis très reconnaissante aux États membres -et en particulier à la Commission- d'accueillir cette idée très favorablement.
+3	très	très	ADV	_	_	4	advmod	_	_
+21	très	très	ADV	_	_	22	advmod	_	_
+# text = Dans l'Ogaden, la région la plus touchée du sud-est de l'Éthiopie, il n'a pas plu depuis plus de trois ans, au point que les notions de saison sèche et de saison humide n'ont plus aucune signification.
+36	sèche	sec	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	_
+# text = Cependant, dans une région déchirée par un conflit d'arrière-garde, ce drame laisse un goût particulièrement amer, car chaque prix payé pour acheter un fusil, une balle, contribue à aggraver une situation économique, sociale et alimentaire déjà précaire.
+11	arrière-garde	arrière-garde	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+18	particulièrement	particulièrement	ADV	_	_	19	advmod	_	_
+# text = Je pense que l'on peut dire que cette conférence a été une réussite, pas seulement du point de vue financier, mais également en raison du fait que lors de cette conférence on a particulièrement mis l'accent sur des projets qui relient réciproquement les régions entre elles, et c'est l'un des points principaux du rapport et l'essence même du pacte de stabilité.
+38	particulièrement	particulièrement	ADV	_	_	39	advmod	_	_
+# text = Premièrement, le financement.
+1	Premièrement	premièrement	ADV	_	_	4	advmod	_	SpaceAfter=No
+# text = En fin de compte, il n'y a que très peu d'argent nouveau.
+11	très	très	ADV	_	_	12	advmod	_	_
+# text = La question que je pose au commissaire est donc de savoir comment les choses se présentent pour la première année, l'an 2001.
+20	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	21	amod	_	_
+# text = Je suis seulement très curieux de savoir comment la Commission pense rassembler cet argent.
+4	très	très	ADV	_	_	5	advmod	_	_
+# text = Un programme de déminage fait partie de la sécurité, est très important et ne devrait pas être laissé de côté.
+12	très	très	ADV	_	_	13	advmod	_	_
+# text = En troisième lieu vient l'appel lancé dans ce rapport, et appuyé par le Conseil "affaires générales", pour que les limitations commerciales soient supprimées pour les pays de manière asymétrique et, si nécessaire, unilatérale, dans l'idée que le commerce devienne à terme aussi important que les subventions.
+2	troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	3	amod	_	_
+33	manière	manière	NOUN	_	Gender=Fem|Number=Sing	28	obl:mod	_	_
+# text = Il est de l'intérêt des acteurs économiques et de tous les consommateurs que le coût des capitaux et de l'intermédiation financière soit aussi réduit que possible.
+25	financière	financier	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	_
+# text = Les marchés financiers européens souffrent actuellement d'un cloisonnement national, même si, suite à la globalisation du système financier international, l'on assiste à un phénomène généralisé de concentration et d'internationalisation.
+21	système	système	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
+29	phénomène	phénomène	NOUN	_	Gender=Masc|Number=Sing	26	obl:arg	_	_
+# text = Il se pose dans ce contexte non seulement un problème de cohérence des législations concernant les différents secteurs du monde financier, mais surtout un problème de surveillance et de protection de l'intérêt général.
+10	problème	problème	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+28	problème	problème	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
+# text = En même temps, suite aux fusions, aux acquisitions et aux concentrations, les frontières entre banques, assurances, fonds d'investissement et fonds de pension s'effacent.
+19	frontières	frontière	NOUN	_	Gender=Fem|Number=Plur	33	nsubj:pass	_	_
+# text = Ne faudrait-il pas profiter de la Conférence intergouvernementale pour créer la base juridique nécessaire pour que le Conseil puisse confier à la B.C.E. certaines missions spécifiques, également en matière de contrôle prudentiel des assurances ?
+31	matière	matière	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	_
+# text = J'ai constaté la cohérence, et j'ai dit très clairement que le ton du présent exposé des motifs était dur.
+11	très	très	ADV	_	_	12	advmod	_	_
+# text = Monsieur le Président, les nuisances acoustiques causées par les avions constituent principalement un problème pour les personnes qui habitent à proximité des aéroports.
+15	problème	problème	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+# text = En principe, ce problème devrait être résolu au niveau local, c'est-à-dire par les autorités compétentes des aéroports concernés.
+5	problème	problème	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+# text = Si nous souhaitons effectivement faire quelque chose pour réduire les nuisances acoustiques produites par les avions, il convient dès lors que les progrès techniques soient mis en oeuvre plus rapidement.
+20	dès	dès	ADP	_	ExtPos=ADV	19	advmod	_	Idiom=Yes
+24	progrès	progrès	NOUN	_	Gender=Masc|Number=Plur	27	nsubj:pass	_	_
+# text = Il importe que les règles générales pour l'octroi d'aides financières communautaires dans les réseaux transeuropéens soit strictement respectée.
+5	règles	règle	NOUN	_	Gender=Fem|Number=Plur	20	nsubj:pass	_	_
+12	financières	financier	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+# text = À ce sujet, nous nous posons la question de savoir pourquoi le coût des études de faisabilité et les mesures d'assistance technique représentent 47% du budget, soit près de 223 millions d'euros.
+34	près	près	ADV	_	ExtPos=PRON	28	appos	_	_
+# text = Non, Madame van der Laan, vous devriez savoir qu'aux termes du règlement, cette demande aurait dû être introduite selon les formes et dans les temps, ce qui n'a pas été le cas.
+17	règlement	règlement	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+# text = Il me reste maintenant à souhaiter que, votes ou non, nous soyons très nombreux vendredi prochain.
+15	très	très	ADV	_	_	16	advmod	_	_
+# text = Monsieur le Président, chers collègues, Madame le rapporteur, comme dit le proverbe : mieux vaut prévenir que guérir.
+6	collègues	collègue	NOUN	_	Number=Plur	1	conj	_	SpaceAfter=No
+# text = Nous le soutenons entièrement.
+4	entièrement	entièrement	ADV	_	_	3	advmod	_	SpaceAfter=No
+# text = J'ai trouvé encourageant d'entendre le commissaire Nielson déclarer que des observateurs seront envoyés au Zimbabwe dès le début du mois de juillet.
+19	dès	dès	ADP	_	_	21	case	_	_
+# text = Eh bien, un célèbre retraité américain, l'astronaute John Glenn, est parti dans l'espace à l'âge de 69 ans.
+5	célèbre	célèbre	ADJ	_	Number=Sing	6	amod	_	_
+# text = Vous avez évoqué le cinquantième anniversaire de la déclaration de Robert Schuman, que le Parlement a en effet fêté de façon très solennelle.
+5	cinquantième	cinquantième	ADJ	_	Number=Sing|NumType=Ord	6	amod	_	_
+23	très	très	ADV	_	_	24	advmod	_	_
+# text = J'ai noté, Monsieur le Président, que vous avez parlé de "notre anniversaire commun", et permettez-moi de vous dire que nous avons été très sensibles à cette évocation.
+30	très	très	ADV	_	_	31	advmod	_	_
+# text = Au cours de cette visite, j'ai été très honorée que vous m'ayez donné l'occasion de m'exprimer dans l'hémicycle du Parlement slovène et je dois dire que, avec M. Podestá, vice-président chargé de l'élargissement, avec M. Brok, président de la commission des affaires étrangères et M. Ebner, président de la délégation, nous avons été très impressionnés par les progrès considérables que votre pays avait accomplis dans la voie de l'appartenance à l'Europe.
+11	très	très	ADV	_	_	12	advmod	_	_
+29	slovène	slovène	ADJ	_	Number=Sing	28	amod	_	_
+57	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	56	amod	_	_
+70	très	très	ADV	_	_	71	advmod	_	_
+74	progrès	progrès	NOUN	_	Gender=Masc|Number=Plur	71	obl:agent	_	_
+# text = Permettez-moi enfin de vous dire que notre Parlement s'est, je crois, très largement retrouvé dans les propos que vous avez tenus.
+16	très	très	ADV	_	_	17	advmod	_	_
+# text = Je dois avouer que cela n'est peut-être pas génial, mais c'est plus intéressant qu'il n'y paraît parce que cela me semble répondre au sentiment très profond de beaucoup de citoyens de nos pays.
+31	très	très	ADV	_	_	32	advmod	_	_
+# text = Je vous souhaite bonne chance ainsi qu'à toutes les autorités slovènes qui participent aux négociations.
+12	slovènes	slovène	ADJ	_	Number=Plur	11	amod	_	_
+# text = Les événements de la nuit dernière à Copenhague soulignent à quel point il est important que le Parlement européen tienne ce débat, comme il a décidé de le faire plus tôt dans la semaine.
+6	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
+# text = Parce que ce rapport indique à plusieurs reprises qu'il faut contrôler, qu'il faut réagir au vieillissement de la population -le nombre de personnes âgées ne cesse d'augmenter et cette situation rend difficile le soutien des systèmes de pension-, qu'il faut se montrer vigilants et inviter les États membres à dépenser toujours moins d'argent pour le paiement des pensions des personnes âgées.
+43	systèmes	système	NOUN	_	Gender=Masc|Number=Plur	40	nmod	_	_
+# text = Monsieur le Président, il est assez incroyable de se trouver dans cette salle -je ne puis guère parler d'assemblée à ce moment précis- et de devoir constater que la traite des esclaves est une réalité qui se poursuit, même dans l'Union européenne- ici, où nous nous flattons d'oeuvrer pour la paix, la liberté, la démocratie et les droits de l'homme.
+19	guère	guère	ADV	_	Polarity=Neg	18	advmod	_	_
+# text = Il est très grave que ce type de commerce existe, d'autant que bien souvent il ne s'agit pas de femmes adultes, mais quasiment d'enfants, d'individus très, très jeunes.
+3	très	très	ADV	_	_	4	advmod	_	_
+33	très	très	ADV	_	_	36	advmod	_	SpaceAfter=No
+35	très	très	ADV	_	_	36	advmod	_	_
+# text = Ce trafic est très étroitement lié à la drogue et au blanchiment d'argent, et il est vraisemblable que ce sont différents types de mafias qui l'organisent.
+4	très	très	ADV	_	_	5	advmod	_	_
+# text = Le rapport qui nous a été présenté est très valable.
+9	très	très	ADV	_	_	10	advmod	_	_
+# text = Je suis souvent sceptique vis-à-vis des exigences très sévères, par exemple en matière d'environnement, qui sont imposées aux pays candidats.
+9	très	très	ADV	_	_	10	advmod	_	_
+10	sévères	sévère	ADJ	_	Number=Plur	8	amod	_	SpaceAfter=No
+15	matière	matière	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+# text = En effet, une telle mesure ne nécessiterait pas de ressources financières importantes, et il serait tout à fait possible de la mettre en application.
+12	financières	financier	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+# text = Je puis donc m'adresser à tous mes collègues pour les encourager à voter pour ce rapport, et à travailler dans ce sens dans leurs pays respectifs, auprès des gouvernements, des organisations et des médias.
+9	collègues	collègue	NOUN	_	Number=Plur	5	obl:arg	_	_
+30	auprès	auprès	ADV	_	_	21	advmod	_	_
+# text = Cela crée un problème en ce qui concerne l'immunité car, comme le savent les membres de cette Assemblée, ils jouissent de l'immunité dans leur État membre au même titre que s'ils étaient députés de leur parlement national.
+4	problème	problème	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+# text = Les deux obstacles au marché intérieur que sont la taxation différente et le règlement d'exemption pour la Grèce, par exemple, sont demeurés inchangés.
+15	règlement	règlement	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	_
+20	Grèce	Grèce	PROPN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+# text = Le 10 mars 1915 à cinq heures du matin, après deux mois d'accrochages sans résultat tangible dans le secteur et deux récentes attaques infructueuses, les poilus de la 21e compagnie du 336e régiment d'infanterie, reçoivent l'ordre d'attaquer de nouveau à la baïonnette et de reprendre les positions ennemies établies au nord du village de Souain.
+12	après	après	ADP	_	_	14	case	_	_
+# text = Le procès
+2	procès	procès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Dès la fin de la guerre, la veuve de Théophile Maupas, soutenue par la Ligue des droits de l'Homme contactée dès le mois d'avril 1915, entama un combat pour la réhabilitation de son époux et des autres caporaux fusillés de Souain ;
+1	Dès	dès	ADP	_	_	3	case	_	_
+25	dès	dès	ADP	_	_	27	case	_	_
+# text = combat contre les institutions, mené sans relâche, qui dura près de deux décennies et qui, en dehors de son activité d'institutrice, l'occupa à plein temps.
+12	près	près	ADV	_	ExtPos=PRON	11	obj	_	_
+# text = Le caporal Lechat fut ré-inhumé au cimetière du Ferré le 16 octobre 1924.
+8	cimetière	cimetière	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
+# text = la presse régionale et nationale ne cessa de parler de l'affaire et les soutiens affluèrent de dizaines d'associations de mutilés de guerre et d'anciens combattants.
+16	affluèrent	affluer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+# text = Blanche Maupas avait pu, à titre individuel, obtenir cette compensation dès 1921.
+13	dès	dès	ADP	_	_	14	case	_	_
+# text = Le film de Stanley Kubrick, Les Sentiers de la gloire, qui reste une fiction relative aux fusillés pour l'exemple de la Première Guerre mondiale, s'est inspiré en partie de ce fait réel.
+26	Première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	27	amod	_	_
+# text = - Jean-Paul Alègre, Blanche Maupas, l'amour fusillé, Éditions de l'Avant-Scène Théâtre 1998.
+3	Alègre	Alègre	PROPN	_	_	2	flat:name	_	SpaceAfter=No
+15	Avant-Scène	Avant-Scène	PROPN	_	Number=Sing	12	nmod	_	_
+# text = - Blanche Maupas, Le Fusillé, Éditions Isoète, réédition 2002 avec des illustrations de Tardi).
+9	Isoète	Isoète	PROPN	_	_	8	nmod	_	SpaceAfter=No
+# text = Le sociologue Pierre Bourdieu a appelé ce phénomène "la circulation circulaire de l'information".
+8	phénomène	phénomène	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+# text = Le phénomène eut lieu en décembre 1989, lors de la chute du régime Ceausescu.
+2	phénomène	phénomène	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+# text = L'affaire des couveuses en Irak s'est déroulée le 10 octobre 1990, lors de l'invasion du Koweït par les armées de Saddam Hussein et était destinée à justifier l'entrée en guerre des puissances occidentales contre l'Irak auprès de l'opinion publique.
+45	auprès	auprès	ADV	_	_	33	advmod	_	_
+# text = Une jeune femme témoigne, les larmes au yeux, devant le congrès américain.
+14	congrès	congrès	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+# text = L'évènement est retransmis rapidement par les télévisions du monde entier :
+2	évènement	évènement	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+# text = Ma mère et moi étions au Koweit le 2 août pour passer de paisibles vacances.
+2	mère	mère	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+# text = Ma soeur aînée avait accouché le 29 juillet et nous voulions passer quelques temps au Koweit auprès d'elle.
+18	auprès	auprès	ADP	_	ExtPos=ADV	12	obl:arg	_	_
+# text = J'ai vu un de mes amis après qu'il ait été torturé par les Irakiens.
+8	après	après	ADP	_	_	13	mark	_	_
+# text = Ce témoignage a beaucoup ému l'opinion publique internationale et amena celle-ci à soutenir l'action des puissances occidentales contre les armées de Saddam Hussein lors de la première guerre du Golfe.
+30	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	31	amod	_	_
+# text = Il est surprenant que le congrès américain n'ait pas fait une enquête préalable sur l'identité de la jeune fille avant de la laisser "témoigner" devant leur assemblée.
+6	congrès	congrès	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+# text = En octobre 1979, un mois après que le despote africain eut été renversé, Le Canard enchaîné titre sur les diamants remis par Bokassa (en exil en Côte d'Ivoire) qu'il évalue à un million de francs (selon M. Copperman, cette valeur était pourtant supérieure à la valeur totale du stock de diamants polis détenu par la CND, seul producteur de diamants polis et taillés en Centrafrique).
+7	après	après	ADP	_	_	14	mark	_	_
+# text = Le Monde reprend l'information dans l'après-midi.
+8	après-midi	après-midi	NOUN	_	Number=Sing	3	obl:mod	_	SpaceAfter=No
+# text = Valéry Giscard d'Estaing, d'après ses mémoires, est surpris par cette attaque qui repose sur des éléments selon lui totalement faux (il aurait reçu une plaquette de diamants de trente carats).
+7	après	après	ADP	_	_	6	fixed	_	InIdiom=Yes
+# text = À partir de ce jour, Valéry Giscard d'Estaing ne lira plus Le Monde, blessé par les accusations fondées sur les seules informations du Canard enchaîné, et par la mise en cause de son père et de ses cousins dans des activités liées à l'Afrique mais qui n'avaient rien à voir avec Bokassa et son cadeau.
+39	père	père	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	_
+# text = Quant aux diamants, leur estimation est bien en deçà des chiffres publiés dans Le Canard enchaîné après l'expertise du président de la Compagnie des experts près de la cour d'appel de Paris.
+20	après	après	ADP	_	_	22	case	_	_
+32	près	près	ADV	_	_	31	advmod	_	_
+# text = La piètre défense, teintée de mépris, de Valéry Giscard d'Estaing accrédite finalement aux yeux du public l'accusation portée par Le Canard enchaîné.
+2	piètre	piètre	ADJ	_	Number=Sing	3	amod	_	_
+# text = Catégorie : Affaire politico-financière française
+4	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+# text = Ces personnes sont interpellées dès leur arrivée à Brazzaville, acheminées par convois dans des camps ou vers la Présidence selon les sources.
+5	dès	dès	ADP	_	_	7	case	_	_
+# text = Procès
+1	Procès	procès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Du côté du pouvoir, plusieurs responsables seront soutenu par des avocats congolais, mais aussi le Français Maître Vergès.
+22	Vergès	Vergès	PROPN	_	_	20	nmod	_	SpaceAfter=No
+# text = Le déroulement du procès sera retransmis sur la télévision congolaise pendant quelques semaines.
+5	procès	procès	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+# text = L'affaire des démons de Loudun, aussi appelée affaire des possédées de Loudun est une chasse aux sorcières lancé par le cardinal de Richelieu dans les années 1630, contre le prêtre catholique Urbain Grandier, de la ville de Loudun, en France.
+22	sorcières	sorcière	NOUN	_	Gender=Fem|Number=Plur	19	nmod	_	_
+# text = En 1634, dans un couvent d'Ursulines à Loudun, les soeurs affirmèrent avoir été ensorcelées par le curé Urbain Grandier.
+14	affirmèrent	affirmer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+# text = Un procès en sorcellerie fut instruit sur la demande de Richelieu, on procéda à de nombreux exorcismes sur les soeurs, et Urbain Grandier fut condamné à mort, torturé et brûlé.
+2	procès	procès	NOUN	_	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+# text = - Les mystères de Loudun (1976), de Gérard Vergez, [1]
+3	mystères	mystère	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+# text = - Sorcière
+2	Sorcière	sorcière	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+# text = L'affaire des faux chargés de mission du cabinet du maire de Paris est une affaire d'emplois fictifs connexe aux différentes affaires politico-financières de la ville de Paris et du financement illégal du RPR.
+28	politico-financières	politico-financier	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	_
+# text = Parmi les bénéficiaires, Michel Aurillac (ancien ministre RPR de la Coopération), François Debré (frère du président du Conseil constitutionnel Jean-Louis Debré) ou encore le chauffeur de Marc Blondel, l'ancien secrétaire général de Force ouvrière (FO).
+19	frère	frère	NOUN	_	Gender=Masc|Number=Sing	16	appos	_	_
+44	ouvrière	ouvrier	ADJ	_	Gender=Fem|Number=Sing	43	amod	_	_
+# text = - 15 février 1989 : La Cour de cassation renvoie le dossier à Amiens en vertu du privilège de juridiction qui impose alors le dépaysement des dossiers mettant en cause des élus.
+19	privilège	privilège	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+# text = - 21 décembre 1995 : Après la victoire de la gauche dans le 3e arrondissement aux élections municipales de 1995, l'élu Vert Yves Contassot et le militant socialiste Pierre Montacié remettent à la justice des fichiers informatiques recensant des "faux" électeurs.
+6	Après	après	ADP	_	_	8	case	_	_
+# text = - 11 septembre 2006 : Ouverture du procès à Paris.
+9	procès	procès	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+# text = Les Dominati (le père Jacques Dominati, les frères Philippe et Laurent Dominati, ont été mis en examen dans cette affaire.
+5	père	père	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
+10	frères	frère	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+# text = 17 ans (!) après les révélations du Canard, l'affaire des faux électeurs du IIIème arrondissement fut jugé en septembre 2006 par la 16e chambre du tribunal correctionnel présidée par Jean-Claude Kross.
+6	après	après	ADP	_	_	8	case	_	_
+21	IIIème	IIIème	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	22	amod	_	_
+# text = "J'ai une liste de collègues de l'opposition qui siégeaient sur les mêmes bancs que moi, qui étaient dans la même situation.
+7	collègues	collègue	NOUN	_	Number=Plur	5	nmod	_	_
+# text = - "Le temps imprime sa marque sur le procès des faux électeurs", Le Monde, 13 septembre 2006
+10	procès	procès	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+# text = L'affaire des fiches (parfois appelée affaire des casseroles) concerne un fichage et une ségrégation politique et religieuse menée dans l'armée française au début du XXe siècle.
+34	siècle	siècle	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+# text = Le général André est nommé en 1900 ministre de la guerre, pour remplacer le général de Galliffet démissionnaire, dans le gouvernement de défense républicaine de Waldeck-Rousseau, puis reconduit dans celui d'Émile Combes, après le triomphe du bloc des gauches aux élections de 1902.
+38	après	après	ADP	_	_	40	case	_	_
+# text = Désireux de républicaniser l'armée en la laïcisant, cet anticlérical farouche et un peu ridicule, méprisé par ses collègues et ses subordonnés, interdit en 1903 aux soldats de fréquenter les cercles militaires catholiques, en application des nouvelles lois laïques sur la "neutralité" supposée, exigée des institutions républicaines et de leurs membres.
+21	collègues	collègue	NOUN	_	Number=Plur	18	obl:agent	_	_
+# text = Si de nombreux vénérables (généralement ceux des loges bourgeoises modérées qui désapprouvent les excès du combisme) ne donnent pas suite, ne voulant se compromettre dans une opération de "basse politique", d'autres, surtout ceux des ateliers les plus extrémistes (radicaux ou socialistes), se lancent avec enthousiasme dans l'opération par haine du clergé, de la religion ou même de l'armée.
+16	excès	excès	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
+# text = Les fiches rapportent aussi la vie privé ou familiale des officiers : "Suit les processions en civil", "a assisté à la messe de première communion de sa fille", "Membre de la Société Saint-Vincent-de-Paul", "A ses enfants dans une jésuitière", "Reçoit La Croix chez lui", "A qualifié les maçons et les républicains de canailles, de voleurs et de traîtres", "richissime", "a une femme très fortunée", "Vit maritalement avec une femme arabe", "A reçu la bénédiction du pape à son mariage par télégramme ".
+29	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	30	amod	_	_
+50	jésuitière	jésuitière	NOUN	_	Gender=Fem|Number=Sing	45	obl:arg	_	SpaceAfter=No
+87	très	très	ADV	_	_	88	advmod	_	_
+# text = Les officiers sont alors classés pour la constitution des tableaux d'avancement sur deux listes d'après les renseignements fournis, poétiquement nommées par André Corinthe (les officiers à promouvoir) et Carthage (ceux à écarter des promotions).
+18	après	après	ADP	_	_	17	fixed	_	InIdiom=Yes
+# text = Mal payé, méprisé de ses employeurs et à court d'argent, Bidegain prend soudain conscience de la bombe politique qu'il possède entre les mains en cette période d'effervescence extrême due à la rupture des relations diplomatiques de la France avec le Saint-Siège suite aux malheureuses affaires des évêques Geay et Le Nordez, et il vend, connaissant paradoxalement, en tant que franc-maçon, la totale inexistence de la fameuse "vengeance maçonnique contre les parjures" chère aux lecteurs de Léo Taxil et aux conspirationnistes, les dites fiches au journal conservateur d'opposition Le Figaro.
+24	possède	posséder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+47	Saint-Siège	Saint-Siège	PROPN	_	Gender=Masc|Number=Sing	37	nmod	_	_
+86	chère	cher	ADJ	_	Gender=Fem|Number=Sing	80	amod	_	_
+# text = Elles sont publiées le 27 octobre 1904, et Louis André est contraint de démissionner quelques jours plus tard, après avoir été giflé sur le banc même des ministres dans un geste mélodramatique par le député nationaliste Gabriel Syveton, que l'on retrouvera mort mystérieusement quelques jours plus tard, suicidé les veines ouvertes dans son bain, la veille d'une séance où il s'apprêtait à faire de nouvelles révélations, probablement plus victime de son épouse et de son amant que du "poignard des Kadosh".
+21	après	après	ADP	_	_	24	mark	_	_
+# text = Seul Syveton est poursuivi sur le plan judiciaire, pour voie de fait sur la personne du ministre de la Guerre en plein parlement, mais son décès prématuré prive la France d'un de ces épisodes amusants dont elle raffole à l'époque.
+29	décès	décès	NOUN	_	Gender=Masc|Number=Sing	31	nsubj	_	_
+# text = Cependant, elle n'empêchera pourtant pas la poursuite de la politique de républicanisation du personnel de l'État, et donc de l'armée, et l'offensive anticléricale, et plus généralement antireligieuse, de la majorité, qui sera reconduite et renforcée encore lors des élections de 1906 après la séparation des Églises et de l'État et l'affaire des inventaires.
+54	après	après	ADP	_	_	56	case	_	_
+# text = Plus gravement, l'affaire des fiches entamera profondément le moral et la cohésion du corps militaire à une époque où, à l'inverse des français, le gouvernement allemand se persuade de plus en plus, comme l'empereur Guillaume II dès son avènement, qu'une guerre est à terme une nécessité inéluctable pour le développement et la prospérité politique et économique de son pays.
+47	dès	dès	ADP	_	_	49	case	_	_
+49	avènement	avènement	NOUN	_	Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
+# text = Les officiers considérés comme "réactionnaires et cléricaux", généralement issus de familles traditionalistes, ont été souvent écartés des postes importants de l'armée, quelquefois au profit de carriéristes médiocres issus des loges ou de la clientèle des partis de gauche, et la France a dû se passer d'eux pendant la Première Guerre mondiale, en tant qu'officiers d'active à tout le moins.
+43	clientèle	clientèle	NOUN	_	Gender=Fem|Number=Sing	39	conj	_	_
+61	Première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	62	amod	_	_
+# text = Certains ont justifié les premiers succès de l'offensive allemande en 1914 par l'incompétence de ces officiers dont près de la moitié d'entre eux a été limogée par Joffre pour incompétence.
+6	succès	succès	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+20	près	près	ADV	_	ExtPos=PRON	29	nsubj:pass	_	_
+# text = Pour l'anecdote, le colonel Pétain, directeur de l'école de Saint-Cyr, connu à l'époque pour son athéisme et ses sympathies républicaines et dreyfusardes, sera abordé pour collaborer au fichage de ses subordonnés et étudiants, et peut-être aussi pour intégrer la loge "Alsace-Lorraine", la loge de prestige, d'ailleurs très modérée, du GO à laquelle appartiennent ou ont appartenu des notables républicains modérés de tendance plutôt nationaliste comme Jules Ferry ou le général Joffre.
+61	très	très	ADV	_	_	62	advmod	_	_
+# text = Son refus brutal et assez méprisant sera sanctionné par une stagnation de sa carrière qu'il reprochera durablement à la maçonnerie, qu'il considérera désormais comme une association néfaste de lobbyistes fanatiques ou douteux.
+14	carrière	carrière	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+# text = Rétrospectivement pourtant, on ne peut que sourire de la naïveté du général André, qui, doutant de la loyauté républicaine de ses propres services internes, "trop réactionnaires" et discrédités aux yeux des bons républicains par l'affaire Dreyfus, confie à une simple association de citoyens de plusieurs dizaines de milliers de membres, composée non de professionnels mais, pourrait-on dire, de policiers du dimanche, une opération de police secrète, sans envisager apparemment un seul instant que l'affaire avait toutes les chances d'atterrir sur la place publique.
+83	secrète	secret	ADJ	_	Gender=Fem|Number=Sing	80	amod	_	SpaceAfter=No
+# text = Un tel amateurisme se rattache sans doute psychologiquement plus à un reste de la mentalité du romantisme des "sociétés secrètes" du XIXe siècle qu'à un travail sérieux de police politique moderne.
+23	secrètes	secret	ADJ	_	Gender=Fem|Number=Plur	22	amod	_	SpaceAfter=No
+28	siècle	siècle	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+# text = Catégories : Troisième République
+3	Troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	4	amod	_	_
+# text = Le ministère des Affaires étrangères, alors dirigé par Roland Dumas, met son veto, relayant ainsi l'opposition de la Chine à cette transaction.
+2	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+6	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+# text = Après plusieurs mois, la Chine met une sourdine à ses objections et le ministère français des Affaires étrangères lève son veto.
+1	Après	après	ADP	_	_	3	case	_	_
+15	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	_	_
+20	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	19	amod	_	_
+21	lève	lever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+# text = Soumis à l'"autorisation de transfert "du 17 septembre 1991 de la part de la direction générale des douanes du ministère du Budget, alors dirigé par le socialiste Michel Charasse, les "rémunérations" consenties se montèrent à près de 3 milliards de francs pour le réseau A et à quelque 80 millions de francs pour le réseau B, selon les informations confiées en 1998 à la brigade financière par l'ancien directeur de Thomson pour l'Asie, Alain Fribourg.
+26	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+45	montèrent	monter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+47	près	près	ADV	_	ExtPos=PRON	45	obl:arg	_	_
+78	financière	financier	ADJ	_	Gender=Fem|Number=Sing	77	amod	_	_
+# text = Il repose sur le trésor de guerre d'Andrew Wang qui s'élève à 1 milliard de francs suisses.
+13	élève	élever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+# text = Les juges exigent les contrats de commissions, qui faisaient l'objet d'autorisations au plus haut niveau chez Thomson et au ministère des Finances.
+25	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	21	conj	_	_
+# text = "À cheval sur Taïwan et Pékin", ce deuxième réseau "ne pouvait être mis en oeuvre que de manière ponctuelle et discrète", notait l'ancien directeur général de Thomson-CSF, Jean-François Briand.
+11	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	12	amod	_	_
+22	manière	manière	NOUN	_	Gender=Fem|Number=Sing	15	obl:mod	_	_
+25	discrète	discret	ADJ	_	Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
+# text = Une note de synthèse établie à l'intention du PDG de l'époque, Alain Gomez, précise qu'entre mars et octobre 1990 "une série d'actions" a été lancées par Lily Liu "pour préparer les rencontres d'octobre 1990 avec les dirigeants chinois, au niveau essentiellement du ministère de la défense et des commissions politiques correspondantes du comité central du Parti communiste chinois".
+4	synthèse	synthèse	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+57	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	53	nmod	_	_
+# text = Soulignant la complémentarité des différentes filières, Jean-François Briand précisait que le réseau B avait "permis de valider l'action du réseau A au niveau le plus élevé de Taïwan".
+7	filières	filière	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+# text = Mais s'il rencontra Alfred Sirven, Jean-François Briand fut tenu dans l'ignorance du rôle joué par Christine Deviers-Joncour, a fortiori de sa proximité avec le ministre des Affaires étrangères Roland Dumas.
+34	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	33	amod	_	_
+# text = Après la conclusion du marché taïwanais, en août 1991, les "doutes" du dirigeant de Thomson se changèrent en inquiétudes.
+1	Après	après	ADP	_	_	3	case	_	_
+23	changèrent	changer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+# text = Peu avant de quitter le groupe, en raison de désaccords persistants avec son PDG, Jean-François Briand bloqua le paiement du réseau C, derrière lequel il entrevoyait "le financement d'un parti politique", ce que l'un de ses collaborateurs, Alain Fribourg, interpréta comme le soupçon d'un "financement du PS", le Parti socialiste français.
+27	derrière	derrière	ADP	_	_	28	case	_	_
+# text = Peu après la signature, Alain Gomez, PDG du Thomson CSF, refuse de le payer car il a des doutes sur la destination finale des 160 millions de francs de commissions.
+2	après	après	ADP	_	_	4	case	_	_
+# text = Saisie d'une plainte de Thomson CSF pour "tentative d'escroquerie" visant Alfred Sirven et Christine Deviers-Joncour, Eva Joly préfère renvoyer Roland Dumas et son ex-amie devant le tribunal correctionnel pour des "abus de biens sociaux" au détriment d'Elf.
+23	préfère	préférer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+# text = - Interrogé comme témoin en juin 2001, Roland Dumas, ministre des affaires étrangères au moment de la signature du contrat Bravo, avait affirmé que cette somme était en fait destinée à "des responsables de Taïwan, à concurrence de 400 millions de dollars, et de 100 millions de dollars à destination du comité central du Parti communiste de Pékin".
+16	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
+# text = L'autorisation du ministère du Budget
+5	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+# text = "J'ai signé, comme ministre chargé de l'administration des douanes et des impôts, la commission douanière, ce qu'on appelle les frais de prospection de marché, qui a été allouée aux intermédiaires étrangers qui ont facilité l'acquisition des frégates de Taïwan", a expliqué Michel Charasse.
+22	douanière	douanier	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
+# text = Depuis cette déclaration, les juges ont entendu Nicolas Bazire, ex-directeur de cabinet de Edouard Balladur, ainsi que trois proches de François Mitterrand : Hubert Védrine, ex-ministre des affaires étrangères, Jean-Louis Bianco, ex-secrétaire général de l'Elysée, et Gilles Ménage, ancien directeur adjoint du cabinet du président.
+34	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	33	amod	_	SpaceAfter=No
+# text = - Le retour vers l'Europe d'une partie de cette masse énorme (rétrocommissions) a nourri d'importants fantasmes dont le prolongement a été trouvé dans l'affaire Clearstream 2, dont la base est la scénarisation par le "corbeau" de distribution de ces rétrocommissions à travers la boîte noire financière Clearstream.
+55	financière	financier	ADJ	_	Gender=Fem|Number=Sing	53	amod	_	_
+# text = Le 7 juin 2006, Dominique de Talancé a été désaisi du dossier et remplacé par Xavière Simeoni, puis Françoise Desset.
+18	Xavière	Xavière	PROPN	_	_	16	obl:agent	_	_
+# text = - Ministère de l'économie et des finances : Mi-avril 2002, les juges ont une nouvelle fois demandé au ministre de l'Économie Laurent Fabius la levée du secret défense afin d'obtenir la déclassification de documents de Thomson, maître d'oeuvre du contrat.
+2	Ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	20	advcl	_	_
+# text = - Le 21 juillet 2006, pour la troisième fois, la commission consultative du secret de la défense nationale rejette la demande de déclassification d'un document des douanes demandée par les juges Pons et d'Huy.
+9	troisième	troisième	ADJ	_	Number=Sing|NumType=Ord	10	amod	_	_
+# text = Selon le corbeau, ces listes contenaient les intitulés de comptes de plusieurs personnes impliquées dans le système complexe de commissions occultes et de rétrocommissions ayant entouré la vente des frégates à Taïwan.
+18	système	système	NOUN	_	Gender=Masc|Number=Sing	15	obl:arg	_	_
+# text = En avril 2006, les investigations judiciaires ont montré que le ministre de la Défense Michèle Alliot-Marie, et le ministre des Affaires étrangères de l'époque Dominique de Villepin, auraient été au courant de la circulation de ces listes falsifiées dans les milieux du renseignement avant même la réception des lettres anonymes par le juge Ruymbeke.
+16	Michèle	Michèle	PROPN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+25	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	24	amod	_	_
+# text = Il apparaît que Nicolas Sarkozy était au courant de l'affaire dès septembre 2004, mais a gardé le silence sans chercher à se défendre jusqu'à début 2006.
+13	dès	dès	ADP	_	_	14	case	_	_
+# text = Roland Dumas, ancien ministre des Affaires étrangères, et ancien proche de François Mitterrand, reconnaît alors avoir entendu parler du "versement d'une commission de 500 millions de dollars autorisée par le gouvernement français" et "d'un possible retour en France" des fonds (Voir Affaire Dumas).
+9	étrangères	étranger	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+# text = - L'affaire des frégates rebondit avec une perquisition au siège de Thales, AFP, 18 juin 2002
+13	siège	siège	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+# text = L'idée serait de trouver un pays tiers qui rachèterait les frégates maudites.
+10	rachèterait	racheter	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+# text = - Eric Halphen soupçonne un système de commissions occultes au sein de l'office HLM des Hauts-de-Seine, présidé par Patrick Balkany et dirigé par Didier Schuller, qui seront tous deux mis en examen.
+6	système	système	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+# text = Huit jours après, Didier Schuller prenait la fuite en République dominicaine sur les conseil de son avocat Me Francis Szpiner et de la cellule juridique de l'Elysée (le 'cabinet noir ').
+3	après	après	ADV	_	_	7	advmod	_	SpaceAfter=No
+# text = - 26 juin 1995 : Les juges Philippe Vandingenen et Serge Portelli perquisitionnent au siège de l'office HLM des Hauts-de-Seine, à Levallois-Perret.
+16	siège	siège	NOUN	_	Gender=Masc|Number=Sing	13	obl:arg	_	_
+# text = - 21 juin 2005 : Début du procès.
+9	procès	procès	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+# text = - Affaires politico-financières
+3	politico-financières	politico-financier	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
+# text = Catégories : Affaire politico-financière française
+4	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+# text = Le fisc apprend que la SAR règle d'autres factures fictives à deux chefs d'entreprise : Jean-Claude Méry, homme d'affaires réputé être l'un des financiers occultes du RPR, et Jacky Chaisaz, ingénieur, animateur d'une société spécialisée dans les travaux d'isolement.
+7	règle	régler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+# text = Selon Le Monde du 25 janvier 2006, une "petite chemise rose" en provenance du ministère du budget, alors dirigé par Nicolas Sarkozy, atterrit sur le bureau d'instruction du juge Eric Halphen.
+20	ministère	ministère	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+# text = Ces secrétaires auraient parallèlement reçu des salaires de la part de la SAR, salaires ne correspondant à aucun travail effectif et reversés à Michel Giraud.
+4	parallèlement	parallèlement	ADV	_	_	5	advmod	_	_
+# text = - 29 septembre 1994 : Mise en examen et incarcération de Jean-Claude Méry, membre du comité exécutif du RPR et responsable de bureaux d'études soupçonné d'avoir bénéficié de fausses factures et d'avoir permis à Francis Poullain d'obtenir des marchés auprès des HLM des Hauts-de-Seine et HLM de Paris.
+47	auprès	auprès	ADV	_	_	44	advmod	_	_
+# text = - 13 décembre 1994 : perquisition à Clichy au siège du "Clichois", le journal électoral de Didier Schuller, conseiller général RPR des Hauts-de-Seine, proche de Patrick Balkany, dont il est son député suppléant, et du ministre de l'Intérieur, Charles Pasqua.
+11	siège	siège	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+# text = - 15 décembre 1994 : Quarante-huit heures après la perquisition au Clichois, Didier Schuller porte plainte contre le Dr Maréchal, beau-père du juge Éric Halphen.
+8	après	après	ADP	_	_	10	case	_	_
+24	beau-père	beau-père	NOUN	_	Gender=Masc|Number=Sing	21	appos	_	_
+# text = Quant à Françoise Montfort, elle admet très vite avoir dû payer, pendant des années, une taxe de 3 à 5% pour l'obtention de marchés publics à l'office HLM des Hauts-de-Seine.
+8	très	très	ADV	_	_	9	advmod	_	_
+# text = - Juillet 1995 : perquisitions au siège du RPR.
+8	siège	siège	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+# text = On découvre des fiches de paie au nom de Xavière Tiberi, émanant du conseil général de l'Essonne.
+11	Xavière	Xavière	PROPN	_	_	9	nmod	_	_
+# text = - Juin 1999 : décès de Jean-Claude Méry.
+5	décès	décès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Le juge n'est pas parvenu à démontrer formellement l'existence d'un système de financement occulte du RPR.
+14	système	système	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+# text = "C'est uniquement aux ordres de Jacques Chirac que nous travaillions", explique Jean-Claude Méry à propos du système de contributions occultes des entreprises sur les marchés publics de l'OPAC, en évoquant une scène dans laquelle il avait personnellement remis 5 millions de francs en cash à Michel Roussin, alors chef du cabinet de Jacques Chirac, Premier ministre, "en présence de M. Chirac".
+23	système	système	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
+41	scène	scène	NOUN	_	Gender=Fem|Number=Sing	39	obj	_	_
+# text = - 4 avril 2001 : le président Jacques Chirac est mis en cause par François Ciolina, qui le désigne comme l'inspirateur d'un système de fraude sur les marchés publics, ne se rend pas chez le juge.
+26	système	système	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+# text = Le Procès en première instance
+2	Procès	procès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
+# text = - Le procès de l'affaire des HLM de Paris s'est déroulé dans l'indifférence du 23 décembre 2005 au 5 avril 2006.
+3	procès	procès	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+# text = - Le 14 mars 2006, des peines de prison avec sursis et des amendes ont été requises contre 41 des 49 prévenus du procès de l'office public HLM de Paris (OPAC), considérés comme les acteurs ou les complices d'un "système de fraude de grande envergure, parfaitement organisé" et destiné à "constituer des caisses noires", selon les mots de la vice-procureure, Chantal de Leiris.
+27	procès	procès	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	_
+49	système	système	NOUN	_	Gender=Masc|Number=Sing	42	nmod	_	_
+# text = Évoquant dès le début de son réquisitoire, devant la 11e chambre du tribunal correctionnel de Paris, la question du financement politique, elle a relevé que "l'instruction n'a pas trouvé de réponse et s'est heurtée au silence et aux flux financiers des sociétés off-shore".
+2	dès	dès	ADP	_	_	4	case	_	_
+# text = - L'enquête a montré que, pour cet appel d'offres, des commissions avaient été versées, via le règlement de factures d'"assistance commerciale" à l'une des sociétés de Jean-Claude Méry.
+22	règlement	règlement	NOUN	_	Gender=Masc|Number=Sing	18	obl:mod	_	_
+# text = Catégories : Affaire politico-financière française.
+4	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+# text = Cette affaire politico-financière française porte sur le financement par les marchés de construction et d'entretien des lycées des grands partis politiques français : RPR, PR, PS, PCF, organisés en cartel.
+3	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+# text = En cinq ans, pour la seule période comprise entre 1990 et 1995, le RPR recevra 53 millions de francs, le PS arrive en deuxième position, avec 46,7 millions, suivi du Parti républicain (32,6 millions) et du PCF (21 millions).
+27	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	28	amod	_	_
+# text = - Louise-Yvonne Casetta, trésorière occulte du RPR, ancêtre de l'UMP.
+5	trésorière	trésorier	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+# text = Le dossier d'instruction comporte ses célèbres "confessions" posthumes, publiées en 2000 (Cassette Méry).
+7	célèbres	célèbre	ADJ	_	Number=Plur	9	amod	_	_
+# text = - Gérard Peybernès, ex-président de l'association de financement du PS.
+3	Peybernès	Peybernès	PROPN	_	_	2	flat:name	_	SpaceAfter=No
+# text = La justice soupçonne que l'argent liquide ayant servi à régler les billets d'avion (pour un montant de 336.210,00 EUR) puisse provenir de versements en espèces des commissions occultes versées par les entreprises de BTP attributaires des marchés publics, ce qui serait un abus de biens sociaux.
+29	espèces	espèce	NOUN	_	Gender=Fem|Number=Plur	27	nmod	_	_
+# text = Aucun lien n'a pu être établi entre ces espèces et l'argent de la corruption des marchés d'Île-de-France.
+10	espèces	espèce	NOUN	_	Gender=Fem|Number=Plur	7	obl:mod	_	_
+# text = Le 1er décembre 2000, Michel Roussin, ancien ministre RPR et ancien directeur du cabinet de Jacques Chirac à la Mairie de Paris, est incarcéré, tandis que Louise-Yvonne Casetta, ex-trésorière officieuse du RPR, est mise en examen.
+35	ex-trésorière	ex-trésorier	NOUN	_	Gender=Fem|Number=Sing	32	appos	_	_
+# text = - Guy Drut, député UMP, champion olympique du 110 mètres haies en 1976 et ministre des Sports RPR de 1995 à 1997, a été condamné à 15 mois de prison avec sursis et 50.000 euros d'amende pour un emploi fictif.
+13	mètres	mètre	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+# text = Son casier judiciaire ainsi blanchi, Guy Drut a pu garder son siège de membre du Comité international olympique (CIO) et les avantages et prébendes de cette fonction.
+13	siège	siège	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+# text = - Louise-Yvonne Casetta, trésorière occulte du RPR, a été reconnue coupable de complicité et recel de corruption, et a été condamnée à 20 mois de prison avec sursis et 10 000 euros d'amende.
+5	trésorière	trésorier	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+# text = - Gérard Peybernès, ex-président de l'association de financement du PS, a été condamné à 15 mois de prison avec sursis et 8.000 euros d'amende.
+3	Peybernès	Peybernès	PROPN	_	_	2	flat:name	_	SpaceAfter=No
+# text = Onze personnes comparaissent dans un procès en appel à partir du 17 octobre 2006.
+6	procès	procès	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_
+# text = En grande majorité, les condamnés ont renoncé à faire appel, comme l'ex-président du conseil régional Michel Giraud, l'ex-trésorier du Parti républicain Jean-Pierre Thomas et Gérard Peybernès, ancien président de l'association nationale de financement du PS.
+33	Peybernès	Peybernès	PROPN	_	_	32	flat:name	_	SpaceAfter=No
+# text = L'audience d'appel survient après la nomination par Jacques Chirac le 13 septembre 2006 d'un de ses anciens conseillers, Laurent Le Mesle, au poste de procureur général de Paris.
+6	après	après	ADP	_	_	8	case	_	_
+# text = Ce magistrat ne sera pas physiquement présent à l'audience mais sera en position de dicter les réquisitions au magistrat chargé du procès.
+25	procès	procès	NOUN	_	Gender=Masc|Number=Sing	22	obl:arg	_	SpaceAfter=No
+# text = Catégories : Affaire politico-financière française.
+4	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+# text = Le procureur pense avoir affaire à "un système "sophistiqué" visant justement à se rendre invisible aux médias et à l'opinion publique en agissant lors de phases de jeu "litigieuses", mais pas sur des actions incontestables".
+9	système	système	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
+# text = La quatrième équipe concernée, le Milan AC, reste en Série A avec 15 points de pénalité, mais perd sa deuxième place et sera privée de Ligue des Champions la saison suivante.
+2	quatrième	quatrième	ADJ	_	Number=Sing|NumType=Ord	3	amod	_	_
+23	deuxième	deuxième	ADJ	_	Number=Sing|NumType=Ord	24	amod	_	_
+# text = La Juve est finalement le seul club relégué et le Milan AC, pénalisé de 30 points, passe de la seconde à la quatrième place et participera au tour préliminaire de la Ligue des Champions.
+25	quatrième	quatrième	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	26	amod	_	_
+# text = Affaire politico-financière italienne
+2	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
+# text = Il est dix heures et demie, ce jeudi 5 mai 1988, quand les trois derniers otages français du Liban, Jean-Paul Kauffmann, Marcel Carton et Marcel Fontaine, libérés la veille à Beyrouth après trois ans de captivité, arrivent à l'aéroport de Villacoublay où ils sont accueillis par Jacques Chirac et Charles Pasqua.
+38	après	après	ADP	_	_	40	case	_	_
+# text = Il est, au moment de son enlèvement sur la route de l'aéroport en compagnie du chercheur Michel Seurat, enlevé avec lui et qui devait mourir en captivité en mars 1986.
+9	enlèvement	enlèvement	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+# text = Tous ces enlèvements sont revendiqués par l'organisation intégriste libanaise du Djihad islamique qui exige la fin de l'aide française à l'Irak alors en guerre contre l'Iran.
+3	enlèvements	enlèvement	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+# text = Après la libération de Jean-Paul Kauffmann, Marcel Carton et Marcel Fontaine, restent encore aux mains de divers groupes terroristes les passagers d'un bateau de plaisance, le Silco, dont la Française Jacqueline Valente et ses filles, et quinze otages étrangers dont huit Américains.
+1	Après	après	ADP	_	_	3	case	_	_
+# text = Le 13 janvier 2002, à quelques semaines des élections présidentielles, une note de la DST, mystérieusement rendue publique (après un article de L'Est républicain), indique que la libération des otages français au Liban (1985-1988) avait fait l'objet d'un paiement de rançon, ainsi que d'un système de "rétro-commissions" qui aurait profité à Jean-Charles Marchiani et Charles Pasqua.
+24	après	après	ADP	_	_	26	case	_	_
+61	système	système	NOUN	_	Gender=Masc|Number=Sing	53	conj	_	_
+# text = Cette note -qui est à l'origine d'une information judiciaire ouverte et confiée à la juge d'instruction Isabelle Prévost-Desprez- ne s'attarde pas réellement sur le paiement d'une hypothétique rançon, mais détaille plutôt un système de "rétro-commissions" qui y serait lié.
+41	système	système	NOUN	_	Gender=Masc|Number=Sing	38	obj	_	_
+# text = Le Canard enchaîné "verrait bien l'intérêt de Chevènement, ou de Villiers, qui chassent sur les mêmes terres que Pasqua", avant de conclure que "ni l'un ni l'autre ne disposaient des moyens nécessaires pour lancer pareil missile".
+10	Chevènement	Chevènement	PROPN	_	_	8	nmod	_	SpaceAfter=No
+# text = Après une enquête rapide, le 23 avril 1999, certains objets appartenant à des gendarmes d'Ajaccio sont trouvés ensevelis dans le sable non loin de l'incendie de la paillote Chez Francis.
+1	Après	après	ADP	_	_	3	case	_	_
+# text = Le 26 avril, cinq gendarmes et le colonel Mazères sont mis en examen et incarcérés.
+10	Mazères	Mazères	PROPN	_	_	9	nmod	_	_
+# text = Trois gendarmes du Groupe de Peletons de Sécurité (G.P.S) reconnaissent avoir incendié volontairement la paillote sur ordre du Colonel Mazères.
+24	Mazères	Mazères	PROPN	_	_	23	nmod	_	SpaceAfter=No
+# text = Le Colonel de Gendarmerie Mazères avoue avoir incendié la paillote sur instructions du préfet de Corse.
+5	Mazères	Mazères	PROPN	_	_	2	nmod	_	_
+# text = Le 5 mai 1999 Le préfet de Corse Bernard Bonnet est mis en examen, et écroué, il avance la thèse du complot.
+22	thèse	thèse	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
+# text = Maître Vergès, plaide : l'opération paillote n'a été qu'une "manipulation barbouzarde" visant à "éliminer un préfet de Corse qui devenait gênant pour un gouvernement qui s'apprêtait à dialoguer avec les clandestins".
+2	Vergès	Vergès	PROPN	_	_	1	nmod	_	SpaceAfter=No
+# text = Verdict du procès
+4	procès	procès	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+# text = - Verdict du procès 11 janvier 2002 :
+5	procès	procès	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+# text = Le tribunal a jugé, après analyse de la loi, que si l'État était bien propriétaire, selon lui, des constructions incendiées, puisqu'établies illicitement sur le domaine public maritime, cela ne pouvait cependant autoriser le préfet à ordonner la destruction des paillotes dans les conditions réalisées.
+6	après	après	ADP	_	_	7	case	_	_
+# text = Affaire politico-financière française.
+2	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
+# text = Plusieurs clichés de ce photographe sont particulièrement dénoncées au début du mois d'août 2006, comme ayant subi d'importantes retouches ou des mises en scène [2].
+7	particulièrement	particulièrement	ADV	_	_	8	advmod	_	_
+29	scène	scène	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	_
+# text = D'autres photos semblent assez clairement avoir subi des retouches pour accentuer leur caractère dramatique.
+14	caractère	caractère	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+# text = Après la mise en évidence de certaines de ces "anomalies" par les blogs américains Little Green Footballs et My Pet Jawa, l'agence Reuters a retiré les clichés et a admis que des photos avaient subi des modifications [5][6].
+1	Après	après	ADP	_	_	3	case	_	_
+# text = Le 6 août, Reuters a mis un terme à sa collaboration avec Adnan Hajj qui se défendait en expliquant avoir voulu retirer des traces de poussières sur les photos originales et que ses conditions de travail, dans un lieu peu éclairé, avaient conduit à ces modifications des photos [7].
+27	poussières	poussière	NOUN	_	Gender=Fem|Number=Plur	25	nmod	_	_
+# text = Dernier accès à l'URL : 2006-08-07.
+2	accès	accès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Dernier accès à l'URL : 2006-08-07.
+2	accès	accès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Dernier accès à l'URL : 2006-08-08.
+2	accès	accès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Dernier accès à l'URL : 2006-08-07.
+2	accès	accès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = Dernier accès à l'URL : 2006-08-07.
+2	accès	accès	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = - (fr) Opinion : "L'affaire Adnan Hajj : première manipulation emblématique de l'ère numérique" par Andre Gunthert for ARHV, 8 août 2006
+13	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	14	amod	_	_
+18	ère	ère	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+# text = L'affaire des piastres, trafic de piastres ou scandale des piastres est un scandale financier et politique de la Quatrième République né dans le contexte de la Guerre d'Indochine.
+23	Quatrième	quatrième	ADJ	_	Number=Sing|NumType=Ord	24	amod	_	_
+# text = Toujours selon J. Despuech, l'empereur Bao Dai, l'ancien haut commissaire Emile Bollaert, les généraux Charles Mast et Revers, l'ancien ministre Paul Giaccobi auraient été au nombre des personnages importants qui s'y adonnèrent.
+42	adonnèrent	adonner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	37	acl:relcl	_	SpaceAfter=No
+# text = Le 12 février 1953, l'OIC imposa aux banques le recours au crédit documentaire pour le règlement des importations provenant de l'Union française.
+20	règlement	règlement	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_
+# text = En fait, il semble que la France ait cherché à sauver au moins l'Institut d'émission, pièce maîtresse de sa diplomatie financière en Indochine.
+21	pièce	pièce	NOUN	_	Gender=Fem|Number=Sing	17	appos	_	_
+26	financière	financier	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	_
+# text = En juillet de l'année suivante, les accords de Genève étaient signés et l'Indochine française avait vécu.
+11	Genève	Genève	PROPN	_	_	9	nmod	_	_
+# text = L'aventure coloniale n'a été profitable que pour quelques grandes compagnies privées, comme la Banque d'Indochine, Descours & Cabaud, les Brasseries et glacières d'Indochine, etc.
+28	glacières	glacière	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	_
+# text = - Thanh H. Vuong, Théorie des contextes et relations internationales : départ de la première Guerre d'Indochine, dans Études Internationales, Vol. XVII, No. 3, pp. 571-597, septembre 1986
+17	première	premier	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	18	amod	_	_
+# text = Affaire politico-financière
+2	politico-financière	politico-financier	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_

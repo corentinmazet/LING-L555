@@ -1,0 +1,6 @@
+0 consonant(s) in n context: 386 instances
+1 consonant(s) in n context: 1045 instances
+0 consonant(s) in f context: 404 instances
+2 consonant(s) in n context: 110 instances
+1 consonant(s) in f context: 162 instances
+3 consonant(s) in n context: 1 instances
