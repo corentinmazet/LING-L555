@@ -6,7 +6,7 @@ Loi de Position and spelling in French: the use of diacritics as a way to indica
 
 #PROJECT DESCRIPTION
 
-In French, the letter <e> can be realized as [e] or [ɛ], among others. French also has variants of this letter that uses diactritics. The <é> variant denotes the pronunciation [e] and the <è> variant denotes the pronunciation [ɛ]. This project looks at whether these two variants with diacritics are used to indicate a pronunciation that goes against the common mid-vowel assignment phenomenon of Loi de Position in French.
+In French, the letter &lt;e&gt; can be realized as [e] or [ɛ], among others. French also has variants of this letter that uses diactritics. The <é> variant denotes the pronunciation [e] and the <è> variant denotes the pronunciation [ɛ]. This project looks at whether these two variants with diacritics are used to indicate a pronunciation that goes against the common mid-vowel assignment phenomenon of Loi de Position in French.
 
 The Loi de Position states that [e] should appear in open syllables and [ɛ] should appear in closed syllables. As a consequence, if <é> (denoting the pronunciation [e]) appears more often in an open syllable, this would suggest that this specific variant is used to indicate a pronunciation that goes against the Loi de Position. The same can be said if <è> (denoting the pronunciation [ɛ]) appears more often in a closed syllable.
 
