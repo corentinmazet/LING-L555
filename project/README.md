@@ -1,8 +1,10 @@
 #TITLE
+
 Loi de Position and spelling in French: the use of diacritics as a way to indicate divergent pronunciation?
 
 
 #PROJECT DESCRIPTION
+
 In French, the letter <e> can be realized as [e] or [ɛ], among others. French also has variants of this letter that uses diactritics. The <é> variant denotes the pronunciation [e] and the <è> variant denotes the pronunciation [ɛ]. This project looks at whether these two variants with diacritics are used to indicate a pronunciation that goes against the common mid-vowel assignment phenomenon of Loi de Position in French.
 
 The Loi de Position states that [e] should appear in open syllables and [ɛ] should appear in closed syllables. As a consequence, if <é> (denoting the pronunciation [e]) appears more often in an open syllable, this would suggest that this specific variant is used to indicate a pronunciation that goes against the Loi de Position. The same can be said if <è> (denoting the pronunciation [ɛ]) appears more often in a closed syllable.
@@ -24,6 +26,7 @@ In order to test this, we will look at the syllabic environment for each instanc
 
 
 #HOW TO RUN THE CODE
+
 I am starting with the French Sequoia corpus from https://github.com/surfacesyntacticud/SUD_French-Sequoia
 
 My first code is aigugetdata.py and gravegetdata.py that extracts all lines that contain respectively <é> and <è>. It outputs two text files "aigudata.txt" and "gravedata.txt" containing all the lines with <é> and all the lines with <è>.
@@ -35,6 +38,7 @@ Finally, my third code is "aigufrequency.py" and "gravefrequency.py" (split in t
 We have a final output that is two text files that tell us how frequent <é> and <è> are in each possible context. Then, we can analyze it linguistically as follows.
 
 #METHODS, RESULTS, CONCLUSIONS
+
 We must first categorize our orthographic contexts for what we can assume the syllabic structure to be:
 
 - 0 consonants following the vowel is always an open syllable.
