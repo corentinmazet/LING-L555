@@ -3,6 +3,7 @@
 Loi de Position and spelling in French: the use of diacritics as a way to indicate divergent pronunciation?
 
 
+
 #PROJECT DESCRIPTION
 
 In French, the letter <e> can be realized as [e] or [ɛ], among others. French also has variants of this letter that uses diactritics. The <é> variant denotes the pronunciation [e] and the <è> variant denotes the pronunciation [ɛ]. This project looks at whether these two variants with diacritics are used to indicate a pronunciation that goes against the common mid-vowel assignment phenomenon of Loi de Position in French.
@@ -25,6 +26,7 @@ In order to test this, we will look at the syllabic environment for each instanc
 
 
 
+
 #THE CODES
 
 I am starting with the French Sequoia corpus from https://github.com/surfacesyntacticud/SUD_French-Sequoia
@@ -36,6 +38,7 @@ My second code is "aigumakelist.py" and "gravemakelist.py" (split in two to deal
 Finally, my third code is "aigufrequency.py" and "gravefrequency.py" (split in two again). It deletes repeated lines, as we don't want the frequency of one word in the language to influence our results, and then counts how many of each unique combination there is (number of consonants and final/non final), for both <é> and <è>. This outputs "aigufrequency.txt" and "gravefrequency.txt" which includes the number of instances of each combination for both <é> and <è>.
 
 We have a final output that is two text files that tell us how frequent <é> and <è> are in each possible context. Then, we can analyze it linguistically as follows.
+
 
 #METHODS, RESULTS, CONCLUSIONS
 
