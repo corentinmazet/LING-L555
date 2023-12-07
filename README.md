@@ -1,4 +1,0 @@
-# LING-L555
-
-`CORENTIN`
-
